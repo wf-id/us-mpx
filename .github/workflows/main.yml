@@ -4,13 +4,20 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron:  '15 10,22 * * *'
+    - cron:  '15 20 * * *'
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-18.04
+    env:
+      RSPM: https://packagemanager.rstudio.com/cran/__linux__/bionic/latest
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      
     steps:
       - uses: actions/checkout@v2
+      - uses: quarto-dev/quarto-actions/install-quarto@v1
+      - run: |
+          quarto --version
       - uses: r-lib/actions/setup-r@v1
         id: install-r
         with:
@@ -32,13 +39,14 @@ jobs:
         if: runner.os == 'Linux'
         env:
           RHUB_PLATFORM: linux-x86_64-ubuntu-gcc
+          GITHUB_PAT: ${{secrets.PAT}}
         run: |
-          Rscript -e "remotes::install_github('r-hub/sysreqs')"
+          Rscript -e "remotes::install_github('r-hub/sysreqs', auth_toke = '${{secrets.GITHUB_TOKEN}}')"
+          Rscript -e "install.packages('stringi', type='source')"
           sysreqs=$(Rscript -e "cat(sysreqs::sysreq_commands('DESCRIPTION'))")
           sudo -s eval "$sysreqs"
       - name: Install dependencies
         run: |
-          options(repos = c(carpentries = 'https://carpentries.r-universe.dev', rstudio = 'https://rstudio.r-universe.dev',eddelbuettel = 'https://eddelbuettel.r-universe.dev', datatble = 'https://Rdatatable.gitlab.io/data.table', henrikbengtsson = 'https://henrikbengtsson.r-universe.dev', CRAN = 'https://cran.rstudio.com'))
           remotes::install_deps(dependencies = TRUE)
           remotes::install_cran("rcmdcheck")
         shell: Rscript {0}
@@ -56,6 +64,9 @@ jobs:
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
         run: |-
           Rscript -e "source('scrape.R')"
+      - name: Aggregate results
+        run: |-
+          Rscript -e "source('aggregate.R')"
       - name: Commit results
         run: |
           git config --local user.email "me.dewitt.jr@gmail.com"

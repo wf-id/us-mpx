@@ -3,6 +3,7 @@
 library(stringr)
 library(dplyr)
 library(purrr)
+library(data.table)
 
 h <- here::here
 
@@ -20,22 +21,21 @@ dat_information <- data.frame(
   group_by(pull_date) %>%
   filter(pull_time==max(pull_time))
 
-dat_raw <- map(dat_information$county_details, jsonlite::read_json)
+dat_raw <- map(dat_information$county_details, jsonlite::read_json,simplifyVector = TRUE)
 
 names(dat_raw) <- dat_information[["pull_date"]]
 
-dat_dat <- map(dat_raw, "data", idcols = "date")
+dat_dat <- map_dfr(dat_raw, "data", .id = "date")
 
-my_cleaner <- function(x){
-  
-  keep_name <- names(x)
-  
-  raw <- lapply(x[[1]], bind_rows)
-  
-}
+setDT(dat_dat)
 
-long <- do.call(rbind, lapply(dat_dat[[1]], bind_rows))
+dat_dat[,Cases := as.numeric(Cases)]
 
+dat_dat[order(date),CasesDailyNBR := Cases - dplyr::lag(Cases, 1), by = "State"]
 
-data.table::fwrite(long, h("output", "mpx.csv"))
+setnames(x = dat_dat, old = c("date","State", "Cases"), new = c("DateDT", "StateDSC", "CasesCumulativeCNT"))
+
+dat_dat[,Range := NULL]
+
+data.table::fwrite(dat_dat, h("output", "mpx.csv"))
 

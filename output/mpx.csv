@@ -1,47 +1,93 @@
-State of Residence,Cases,Range
-Alabama,2,1 to 2
-Arizona,11,1 to 2
-Arkansas,1,1 to 2
-California,267,1 to 2
-Colorado,32,1 to 2
-Connecticut,13,1 to 2
-Delaware,1,1 to 2
-District of Columbia,126,1 to 2
-Florida,180,1 to 2
-Georgia,132,1 to 2
-Hawaii,8,1 to 2
-Idaho,1,1 to 2
-Illinois,200,1 to 2
-Indiana,11,1 to 2
-Iowa,4,1 to 2
-Kansas,1,1 to 2
-Kentucky,3,1 to 2
-Louisiana,13,1 to 2
-Maryland,48,1 to 2
-Massachusetts,53,1 to 2
-Michigan,17,1 to 2
-Minnesota,21,1 to 2
-Missouri,9,1 to 2
-Nebraska,2,1 to 2
-Nevada,6,1 to 2
-New Hampshire,1,1 to 2
-New Jersey,41,1 to 2
-New Mexico,6,1 to 2
-New York,581,1 to 2
-North Carolina,13,1 to 2
-Ohio,7,1 to 2
-Oklahoma,5,1 to 2
-Oregon,9,1 to 2
-Pennsylvania,64,1 to 2
-Puerto Rico,6,1 to 2
-Rhode Island,7,1 to 2
-South Carolina,6,1 to 2
-South Dakota,1,1 to 2
-Tennessee,10,1 to 2
-Texas,81,1 to 2
-Utah,13,1 to 2
-Virginia,41,1 to 2
-Washington,44,1 to 2
-West Virginia,1,1 to 2
-Wisconsin,6,1 to 2
-Non-US Resident,3,1 to 2
+DateDT,StateDSC,CasesCumulativeCNT,CasesDailyNBR
+2022-07-20,Alabama,4,
+2022-07-20,Arizona,22,
+2022-07-20,Arkansas,1,
+2022-07-20,California,356,
+2022-07-20,Colorado,38,
+2022-07-20,Connecticut,15,
+2022-07-20,Delaware,1,
+2022-07-20,District of Columbia,110,
+2022-07-20,Florida,208,
+2022-07-20,Georgia,158,
+2022-07-20,Hawaii,8,
+2022-07-20,Idaho,1,
+2022-07-20,Illinois,208,
+2022-07-20,Indiana,26,
+2022-07-20,Iowa,5,
+2022-07-20,Kansas,1,
+2022-07-20,Kentucky,4,
+2022-07-20,Louisiana,16,
+2022-07-20,Maryland,55,
+2022-07-20,Massachusetts,69,
+2022-07-20,Michigan,19,
+2022-07-20,Minnesota,15,
+2022-07-20,Missouri,5,
+2022-07-20,Nebraska,2,
+2022-07-20,Nevada,7,
+2022-07-20,New Hampshire,3,
+2022-07-20,New Jersey,41,
+2022-07-20,New Mexico,6,
+2022-07-20,New York,581,
+2022-07-20,North Carolina,13,
+2022-07-20,Ohio,11,
+2022-07-20,Oklahoma,3,
+2022-07-20,Oregon,9,
+2022-07-20,Pennsylvania,58,
+2022-07-20,Puerto Rico,7,
+2022-07-20,Rhode Island,7,
+2022-07-20,South Carolina,6,
+2022-07-20,South Dakota,1,
+2022-07-20,Tennessee,10,
+2022-07-20,Texas,81,
+2022-07-20,Utah,11,
+2022-07-20,Virginia,56,
+2022-07-20,Washington,55,
+2022-07-20,West Virginia,1,
+2022-07-20,Wisconsin,6,
+2022-07-20,Non-US Resident,3,
+2022-07-21,Alabama,4,0
+2022-07-21,Arizona,22,0
+2022-07-21,Arkansas,1,0
+2022-07-21,California,356,0
+2022-07-21,Colorado,38,0
+2022-07-21,Connecticut,15,0
+2022-07-21,Delaware,1,0
+2022-07-21,District of Columbia,110,0
+2022-07-21,Florida,208,0
+2022-07-21,Georgia,158,0
+2022-07-21,Hawaii,8,0
+2022-07-21,Idaho,1,0
+2022-07-21,Illinois,208,0
+2022-07-21,Indiana,26,0
+2022-07-21,Iowa,5,0
+2022-07-21,Kansas,1,0
+2022-07-21,Kentucky,4,0
+2022-07-21,Louisiana,16,0
+2022-07-21,Maryland,55,0
+2022-07-21,Massachusetts,69,0
+2022-07-21,Michigan,19,0
+2022-07-21,Minnesota,15,0
+2022-07-21,Missouri,5,0
+2022-07-21,Nebraska,2,0
+2022-07-21,Nevada,7,0
+2022-07-21,New Hampshire,3,0
+2022-07-21,New Jersey,41,0
+2022-07-21,New Mexico,6,0
+2022-07-21,New York,581,0
+2022-07-21,North Carolina,13,0
+2022-07-21,Ohio,11,0
+2022-07-21,Oklahoma,3,0
+2022-07-21,Oregon,9,0
+2022-07-21,Pennsylvania,58,0
+2022-07-21,Puerto Rico,7,0
+2022-07-21,Rhode Island,7,0
+2022-07-21,South Carolina,6,0
+2022-07-21,South Dakota,1,0
+2022-07-21,Tennessee,10,0
+2022-07-21,Texas,81,0
+2022-07-21,Utah,11,0
+2022-07-21,Virginia,56,0
+2022-07-21,Washington,55,0
+2022-07-21,West Virginia,1,0
+2022-07-21,Wisconsin,6,0
+2022-07-21,Non-US Resident,3,0
