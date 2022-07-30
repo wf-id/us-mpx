@@ -25,7 +25,9 @@ dat_raw <- map(dat_information$county_details, jsonlite::read_json,simplifyVecto
 
 names(dat_raw) <- dat_information[["pull_date"]]
 
-dat_dat <- map_dfr(dat_raw, "data", .id = "date")
+dat_dat <- map(dat_raw, "data", .id = "date")
+
+dat_dat <- rbindlist(dat_dat, idcol = "date")
 
 setDT(dat_dat)
 
