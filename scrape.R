@@ -13,3 +13,32 @@ sprintf("data/%s.json", ping_time),
 quiet = TRUE,
 cacheOK = FALSE
 )
+
+
+# overall reporting incidence -----------------------------------------------------------------
+
+tmp <- tempfile()
+
+download.file(
+  "https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx-trend.json",
+  tmp,
+  quiet = TRUE,
+  cacheOK = FALSE
+)
+
+
+o <- jsonlite::read_json(tmp,simplifyVector = TRUE)[["data"]]
+
+names(o) <- c("EpidateDT", "CaseCNT")
+
+o$EpidateDT <- as.Date(o$EpidateDT, "%m/%d/%Y")
+
+o$CaseCNT <- as.numeric(o$CaseCNT)
+
+o$ReportDT <- Sys.Date()
+
+data.table::fwrite(o, here::here("data", "oa-incidence",paste0(ping_time,".csv") ))
+
+o$CaseRollNBR <- data.table::frollmean(x = o$CaseCNT, 7)
+
+data.table::fwrite(o, here::here("output", "us-incidence.csv"))
