@@ -27,17 +27,23 @@ names(dat_raw) <- dat_information[["pull_date"]]
 
 dat_dat <- map(dat_raw, "data", .id = "date")
 
-dat_dat <- rbindlist(dat_dat, idcol = "date")
+dat_dat <- rbindlist(dat_dat, idcol = "date", fill = TRUE)
 
 setDT(dat_dat)
 
 dat_dat[,Cases := as.numeric(Cases)]
+
+dat_dat[,State := ifelse(is.na(State),Location, State )]
 
 dat_dat[order(date),CasesDailyNBR := Cases - dplyr::lag(Cases, 1), by = "State"]
 
 setnames(x = dat_dat, old = c("date","State", "Cases"), new = c("DateDT", "StateDSC", "CasesCumulativeCNT"))
 
 dat_dat[,Range := NULL]
+
+dat_dat[,Location := NULL]
+
+dat_dat[,`Case Range` := NULL]
 
 data.table::fwrite(dat_dat, h("output", "mpx.csv"))
 

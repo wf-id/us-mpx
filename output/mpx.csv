@@ -1,1084 +1,1138 @@
-DateDT,StateDSC,CasesCumulativeCNT,CasesDailyNBR
-2022-07-20,Alabama,4,
-2022-07-20,Arizona,22,
-2022-07-20,Arkansas,1,
-2022-07-20,California,356,
-2022-07-20,Colorado,38,
-2022-07-20,Connecticut,15,
-2022-07-20,Delaware,1,
-2022-07-20,District of Columbia,110,
-2022-07-20,Florida,208,
-2022-07-20,Georgia,158,
-2022-07-20,Hawaii,8,
-2022-07-20,Idaho,1,
-2022-07-20,Illinois,208,
-2022-07-20,Indiana,26,
-2022-07-20,Iowa,5,
-2022-07-20,Kansas,1,
-2022-07-20,Kentucky,4,
-2022-07-20,Louisiana,16,
-2022-07-20,Maryland,55,
-2022-07-20,Massachusetts,69,
-2022-07-20,Michigan,19,
-2022-07-20,Minnesota,15,
-2022-07-20,Missouri,5,
-2022-07-20,Nebraska,2,
-2022-07-20,Nevada,7,
-2022-07-20,New Hampshire,3,
-2022-07-20,New Jersey,41,
-2022-07-20,New Mexico,6,
-2022-07-20,New York,581,
-2022-07-20,North Carolina,13,
-2022-07-20,Ohio,11,
-2022-07-20,Oklahoma,3,
-2022-07-20,Oregon,9,
-2022-07-20,Pennsylvania,58,
-2022-07-20,Puerto Rico,7,
-2022-07-20,Rhode Island,7,
-2022-07-20,South Carolina,6,
-2022-07-20,South Dakota,1,
-2022-07-20,Tennessee,10,
-2022-07-20,Texas,81,
-2022-07-20,Utah,11,
-2022-07-20,Virginia,56,
-2022-07-20,Washington,55,
-2022-07-20,West Virginia,1,
-2022-07-20,Wisconsin,6,
-2022-07-20,Non-US Resident,3,
-2022-07-21,Alabama,4,0
-2022-07-21,Arizona,22,0
-2022-07-21,Arkansas,1,0
-2022-07-21,California,356,0
-2022-07-21,Colorado,38,0
-2022-07-21,Connecticut,15,0
-2022-07-21,Delaware,1,0
-2022-07-21,District of Columbia,110,0
-2022-07-21,Florida,208,0
-2022-07-21,Georgia,158,0
-2022-07-21,Hawaii,8,0
-2022-07-21,Idaho,1,0
-2022-07-21,Illinois,208,0
-2022-07-21,Indiana,26,0
-2022-07-21,Iowa,5,0
-2022-07-21,Kansas,1,0
-2022-07-21,Kentucky,4,0
-2022-07-21,Louisiana,16,0
-2022-07-21,Maryland,55,0
-2022-07-21,Massachusetts,69,0
-2022-07-21,Michigan,19,0
-2022-07-21,Minnesota,15,0
-2022-07-21,Missouri,5,0
-2022-07-21,Nebraska,2,0
-2022-07-21,Nevada,7,0
-2022-07-21,New Hampshire,3,0
-2022-07-21,New Jersey,41,0
-2022-07-21,New Mexico,6,0
-2022-07-21,New York,581,0
-2022-07-21,North Carolina,13,0
-2022-07-21,Ohio,11,0
-2022-07-21,Oklahoma,3,0
-2022-07-21,Oregon,9,0
-2022-07-21,Pennsylvania,58,0
-2022-07-21,Puerto Rico,7,0
-2022-07-21,Rhode Island,7,0
-2022-07-21,South Carolina,6,0
-2022-07-21,South Dakota,1,0
-2022-07-21,Tennessee,10,0
-2022-07-21,Texas,81,0
-2022-07-21,Utah,11,0
-2022-07-21,Virginia,56,0
-2022-07-21,Washington,55,0
-2022-07-21,West Virginia,1,0
-2022-07-21,Wisconsin,6,0
-2022-07-21,Non-US Resident,3,0
-2022-07-22,Alabama,6,2
-2022-07-22,Arizona,22,0
-2022-07-22,Arkansas,3,2
-2022-07-22,California,356,0
-2022-07-22,Colorado,31,-7
-2022-07-22,Connecticut,16,1
-2022-07-22,Delaware,3,2
-2022-07-22,District of Columbia,110,0
-2022-07-22,Florida,226,18
-2022-07-22,Georgia,158,0
-2022-07-22,Hawaii,8,0
-2022-07-22,Idaho,2,1
-2022-07-22,Illinois,230,22
-2022-07-22,Indiana,35,9
-2022-07-22,Iowa,5,0
-2022-07-22,Kansas,2,1
-2022-07-22,Kentucky,4,0
-2022-07-22,Louisiana,17,1
-2022-07-22,Maryland,49,-6
-2022-07-22,Massachusetts,55,-14
-2022-07-22,Michigan,19,0
-2022-07-22,Minnesota,19,4
-2022-07-22,Missouri,8,3
-2022-07-22,Nebraska,5,3
-2022-07-22,Nevada,8,1
-2022-07-22,New Hampshire,3,0
-2022-07-22,New Jersey,41,0
-2022-07-22,New Mexico,7,1
-2022-07-22,New York,830,249
-2022-07-22,North Carolina,13,0
-2022-07-22,North Dakota,1,
-2022-07-22,Ohio,9,-2
-2022-07-22,Oklahoma,5,2
-2022-07-22,Oregon,9,0
-2022-07-22,Pennsylvania,58,0
-2022-07-22,Puerto Rico,12,5
-2022-07-22,Rhode Island,7,0
-2022-07-22,South Carolina,9,3
-2022-07-22,South Dakota,1,0
-2022-07-22,Tennessee,16,6
-2022-07-22,Texas,61,-20
-2022-07-22,Utah,11,0
-2022-07-22,Virginia,40,-16
-2022-07-22,Washington,53,-2
-2022-07-22,West Virginia,1,0
-2022-07-22,Wisconsin,6,0
-2022-07-22,Non-US Resident,3,0
-2022-07-23,Alabama,4,-2
-2022-07-23,Arizona,29,7
-2022-07-23,Arkansas,3,0
-2022-07-23,California,356,0
-2022-07-23,Colorado,47,16
-2022-07-23,Connecticut,19,3
-2022-07-23,Delaware,3,0
-2022-07-23,District of Columbia,110,0
-2022-07-23,Florida,247,21
-2022-07-23,Georgia,211,53
-2022-07-23,Hawaii,8,0
-2022-07-23,Idaho,2,0
-2022-07-23,Illinois,238,8
-2022-07-23,Indiana,31,-4
-2022-07-23,Iowa,6,1
-2022-07-23,Kansas,2,0
-2022-07-23,Kentucky,4,0
-2022-07-23,Louisiana,21,4
-2022-07-23,Maryland,71,22
-2022-07-23,Massachusetts,79,24
-2022-07-23,Michigan,27,8
-2022-07-23,Minnesota,19,0
-2022-07-23,Missouri,5,-3
-2022-07-23,Nebraska,5,0
-2022-07-23,Nevada,8,0
-2022-07-23,New Hampshire,3,0
-2022-07-23,New Jersey,41,0
-2022-07-23,New Mexico,7,0
-2022-07-23,New York,900,70
-2022-07-23,North Carolina,13,0
-2022-07-23,North Dakota,1,0
-2022-07-23,Ohio,4,-5
-2022-07-23,Oklahoma,4,-1
-2022-07-23,Oregon,36,27
-2022-07-23,Pennsylvania,55,-3
-2022-07-23,Puerto Rico,10,-2
-2022-07-23,Rhode Island,9,2
-2022-07-23,South Carolina,7,-2
-2022-07-23,South Dakota,1,0
-2022-07-23,Tennessee,15,-1
-2022-07-23,Texas,107,46
-2022-07-23,Utah,13,2
-2022-07-23,Virginia,40,0
-2022-07-23,Washington,60,7
-2022-07-23,West Virginia,1,0
-2022-07-23,Wisconsin,6,0
-2022-07-23,Non-US Resident,3,0
-2022-07-24,Alabama,4,0
-2022-07-24,Arizona,29,0
-2022-07-24,Arkansas,3,0
-2022-07-24,California,356,0
-2022-07-24,Colorado,47,0
-2022-07-24,Connecticut,19,0
-2022-07-24,Delaware,3,0
-2022-07-24,District of Columbia,110,0
-2022-07-24,Florida,247,0
-2022-07-24,Georgia,211,0
-2022-07-24,Hawaii,8,0
-2022-07-24,Idaho,2,0
-2022-07-24,Illinois,238,0
-2022-07-24,Indiana,31,0
-2022-07-24,Iowa,6,0
-2022-07-24,Kansas,2,0
-2022-07-24,Kentucky,4,0
-2022-07-24,Louisiana,21,0
-2022-07-24,Maryland,71,0
-2022-07-24,Massachusetts,79,0
-2022-07-24,Michigan,27,0
-2022-07-24,Minnesota,19,0
-2022-07-24,Missouri,5,0
-2022-07-24,Nebraska,5,0
-2022-07-24,Nevada,8,0
-2022-07-24,New Hampshire,3,0
-2022-07-24,New Jersey,41,0
-2022-07-24,New Mexico,7,0
-2022-07-24,New York,900,0
-2022-07-24,North Carolina,13,0
-2022-07-24,North Dakota,1,0
-2022-07-24,Ohio,4,0
-2022-07-24,Oklahoma,4,0
-2022-07-24,Oregon,36,0
-2022-07-24,Pennsylvania,55,0
-2022-07-24,Puerto Rico,10,0
-2022-07-24,Rhode Island,9,0
-2022-07-24,South Carolina,7,0
-2022-07-24,South Dakota,1,0
-2022-07-24,Tennessee,15,0
-2022-07-24,Texas,107,0
-2022-07-24,Utah,13,0
-2022-07-24,Virginia,40,0
-2022-07-24,Washington,60,0
-2022-07-24,West Virginia,1,0
-2022-07-24,Wisconsin,6,0
-2022-07-24,Non-US Resident,3,0
-2022-07-25,Alabama,4,0
-2022-07-25,Arizona,29,0
-2022-07-25,Arkansas,3,0
-2022-07-25,California,356,0
-2022-07-25,Colorado,47,0
-2022-07-25,Connecticut,19,0
-2022-07-25,Delaware,3,0
-2022-07-25,District of Columbia,110,0
-2022-07-25,Florida,247,0
-2022-07-25,Georgia,211,0
-2022-07-25,Hawaii,8,0
-2022-07-25,Idaho,2,0
-2022-07-25,Illinois,238,0
-2022-07-25,Indiana,31,0
-2022-07-25,Iowa,6,0
-2022-07-25,Kansas,2,0
-2022-07-25,Kentucky,4,0
-2022-07-25,Louisiana,21,0
-2022-07-25,Maryland,71,0
-2022-07-25,Massachusetts,79,0
-2022-07-25,Michigan,27,0
-2022-07-25,Minnesota,19,0
-2022-07-25,Missouri,5,0
-2022-07-25,Nebraska,5,0
-2022-07-25,Nevada,8,0
-2022-07-25,New Hampshire,3,0
-2022-07-25,New Jersey,41,0
-2022-07-25,New Mexico,7,0
-2022-07-25,New York,900,0
-2022-07-25,North Carolina,13,0
-2022-07-25,North Dakota,1,0
-2022-07-25,Ohio,4,0
-2022-07-25,Oklahoma,4,0
-2022-07-25,Oregon,36,0
-2022-07-25,Pennsylvania,55,0
-2022-07-25,Puerto Rico,10,0
-2022-07-25,Rhode Island,9,0
-2022-07-25,South Carolina,7,0
-2022-07-25,South Dakota,1,0
-2022-07-25,Tennessee,15,0
-2022-07-25,Texas,107,0
-2022-07-25,Utah,13,0
-2022-07-25,Virginia,40,0
-2022-07-25,Washington,60,0
-2022-07-25,West Virginia,1,0
-2022-07-25,Wisconsin,6,0
-2022-07-25,Non-US Resident,3,0
-2022-07-26,Alabama,5,1
-2022-07-26,Arizona,35,6
-2022-07-26,Arkansas,4,1
-2022-07-26,California,356,0
-2022-07-26,Colorado,53,6
-2022-07-26,Connecticut,22,3
-2022-07-26,Delaware,3,0
-2022-07-26,District of Columbia,139,29
-2022-07-26,Florida,273,26
-2022-07-26,Georgia,268,57
-2022-07-26,Hawaii,10,2
-2022-07-26,Idaho,2,0
-2022-07-26,Illinois,344,106
-2022-07-26,Indiana,33,2
-2022-07-26,Iowa,7,1
-2022-07-26,Kansas,2,0
-2022-07-26,Kentucky,4,0
-2022-07-26,Louisiana,25,4
-2022-07-26,Maryland,87,16
-2022-07-26,Massachusetts,82,3
-2022-07-26,Michigan,24,-3
-2022-07-26,Minnesota,20,1
-2022-07-26,Mississippi,1,
-2022-07-26,Missouri,8,3
-2022-07-26,Nebraska,5,0
-2022-07-26,Nevada,11,3
-2022-07-26,New Hampshire,6,3
-2022-07-26,New Jersey,81,40
-2022-07-26,New Mexico,7,0
-2022-07-26,New York,990,90
-2022-07-26,North Carolina,34,21
-2022-07-26,North Dakota,1,0
-2022-07-26,Ohio,15,11
-2022-07-26,Oklahoma,4,0
-2022-07-26,Oregon,40,4
-2022-07-26,Pennsylvania,84,29
-2022-07-26,Puerto Rico,9,-1
-2022-07-26,Rhode Island,10,1
-2022-07-26,South Carolina,12,5
-2022-07-26,South Dakota,1,0
-2022-07-26,Tennessee,18,3
-2022-07-26,Texas,220,113
-2022-07-26,Utah,11,-2
-2022-07-26,Virginia,39,-1
-2022-07-26,Washington,69,9
-2022-07-26,West Virginia,1,0
-2022-07-26,Wisconsin,9,3
-2022-07-26,Non-US Resident,3,0
-2022-07-27,Alabama,6,1
-2022-07-27,Arizona,41,6
-2022-07-27,Arkansas,4,0
-2022-07-27,California,799,443
-2022-07-27,Colorado,53,0
-2022-07-27,Connecticut,28,6
-2022-07-27,Delaware,3,0
-2022-07-27,District of Columbia,205,66
-2022-07-27,Florida,332,59
-2022-07-27,Georgia,312,44
-2022-07-27,Hawaii,10,0
-2022-07-27,Idaho,3,1
-2022-07-27,Illinois,385,41
-2022-07-27,Indiana,37,4
-2022-07-27,Iowa,9,2
-2022-07-27,Kansas,1,-1
-2022-07-27,Kentucky,6,2
-2022-07-27,Louisiana,28,3
-2022-07-27,Maine,1,
-2022-07-27,Maryland,101,14
-2022-07-27,Massachusetts,113,31
-2022-07-27,Michigan,28,4
-2022-07-27,Minnesota,28,8
-2022-07-27,Mississippi,1,0
-2022-07-27,Missouri,6,-2
-2022-07-27,Nebraska,8,3
-2022-07-27,Nevada,11,0
-2022-07-27,New Hampshire,7,1
-2022-07-27,New Jersey,102,21
-2022-07-27,New Mexico,7,0
-2022-07-27,New York,1228,238
-2022-07-27,North Carolina,15,-19
-2022-07-27,North Dakota,1,0
-2022-07-27,Ohio,17,2
-2022-07-27,Oklahoma,8,4
-2022-07-27,Oregon,51,11
-2022-07-27,Pennsylvania,114,30
-2022-07-27,Puerto Rico,10,1
-2022-07-27,Rhode Island,16,6
-2022-07-27,South Carolina,13,1
-2022-07-27,South Dakota,1,0
-2022-07-27,Tennessee,21,3
-2022-07-27,Texas,287,67
-2022-07-27,Utah,22,11
-2022-07-27,Virginia,39,0
-2022-07-27,Washington,103,34
-2022-07-27,West Virginia,2,1
-2022-07-27,Wisconsin,13,4
-2022-07-27,Non-US Resident,3,0
-2022-07-28,Alabama,6,0
-2022-07-28,Arizona,41,0
-2022-07-28,Arkansas,4,0
-2022-07-28,California,799,0
-2022-07-28,Colorado,53,0
-2022-07-28,Connecticut,28,0
-2022-07-28,Delaware,3,0
-2022-07-28,District of Columbia,205,0
-2022-07-28,Florida,332,0
-2022-07-28,Georgia,312,0
-2022-07-28,Hawaii,10,0
-2022-07-28,Idaho,3,0
-2022-07-28,Illinois,385,0
-2022-07-28,Indiana,37,0
-2022-07-28,Iowa,9,0
-2022-07-28,Kansas,1,0
-2022-07-28,Kentucky,6,0
-2022-07-28,Louisiana,28,0
-2022-07-28,Maine,1,0
-2022-07-28,Maryland,101,0
-2022-07-28,Massachusetts,113,0
-2022-07-28,Michigan,28,0
-2022-07-28,Minnesota,28,0
-2022-07-28,Mississippi,1,0
-2022-07-28,Missouri,6,0
-2022-07-28,Nebraska,8,0
-2022-07-28,Nevada,11,0
-2022-07-28,New Hampshire,7,0
-2022-07-28,New Jersey,102,0
-2022-07-28,New Mexico,7,0
-2022-07-28,New York,1228,0
-2022-07-28,North Carolina,15,0
-2022-07-28,North Dakota,1,0
-2022-07-28,Ohio,17,0
-2022-07-28,Oklahoma,8,0
-2022-07-28,Oregon,51,0
-2022-07-28,Pennsylvania,114,0
-2022-07-28,Puerto Rico,10,0
-2022-07-28,Rhode Island,16,0
-2022-07-28,South Carolina,13,0
-2022-07-28,South Dakota,1,0
-2022-07-28,Tennessee,21,0
-2022-07-28,Texas,287,0
-2022-07-28,Utah,22,0
-2022-07-28,Virginia,39,0
-2022-07-28,Washington,103,0
-2022-07-28,West Virginia,2,0
-2022-07-28,Wisconsin,13,0
-2022-07-28,Non-US Resident,3,0
-2022-07-30,Alabama,16,10
-2022-07-30,Alaska,1,
-2022-07-30,Arizona,50,9
-2022-07-30,Arkansas,4,0
-2022-07-30,California,799,0
-2022-07-30,Colorado,53,0
-2022-07-30,Connecticut,33,5
-2022-07-30,Delaware,4,1
-2022-07-30,District of Columbia,218,13
-2022-07-30,Florida,373,41
-2022-07-30,Georgia,351,39
-2022-07-30,Hawaii,10,0
-2022-07-30,Idaho,4,1
-2022-07-30,Illinois,419,34
-2022-07-30,Indiana,49,12
-2022-07-30,Iowa,10,1
-2022-07-30,Kansas,1,0
-2022-07-30,Kentucky,8,2
-2022-07-30,Louisiana,38,10
-2022-07-30,Maine,1,0
-2022-07-30,Maryland,117,16
-2022-07-30,Massachusetts,116,3
-2022-07-30,Michigan,28,0
-2022-07-30,Minnesota,33,5
-2022-07-30,Mississippi,3,2
-2022-07-30,Missouri,9,3
-2022-07-30,Nebraska,10,2
-2022-07-30,Nevada,14,3
-2022-07-30,New Hampshire,9,2
-2022-07-30,New Jersey,118,16
-2022-07-30,New Mexico,7,0
-2022-07-30,New York,1345,117
-2022-07-30,North Carolina,53,38
-2022-07-30,North Dakota,1,0
-2022-07-30,Ohio,23,6
-2022-07-30,Oklahoma,9,1
-2022-07-30,Oregon,58,7
-2022-07-30,Pennsylvania,125,11
-2022-07-30,Puerto Rico,14,4
-2022-07-30,Rhode Island,19,3
-2022-07-30,South Carolina,16,3
-2022-07-30,South Dakota,1,0
-2022-07-30,Tennessee,26,5
-2022-07-30,Texas,351,64
-2022-07-30,Utah,27,5
-2022-07-30,Virginia,76,37
-2022-07-30,Washington,120,17
-2022-07-30,West Virginia,3,1
-2022-07-30,Wisconsin,13,0
-2022-07-31,Alabama,16,0
-2022-07-31,Alaska,1,0
-2022-07-31,Arizona,50,0
-2022-07-31,Arkansas,4,0
-2022-07-31,California,799,0
-2022-07-31,Colorado,53,0
-2022-07-31,Connecticut,33,0
-2022-07-31,Delaware,4,0
-2022-07-31,District of Columbia,218,0
-2022-07-31,Florida,373,0
-2022-07-31,Georgia,351,0
-2022-07-31,Hawaii,10,0
-2022-07-31,Idaho,4,0
-2022-07-31,Illinois,419,0
-2022-07-31,Indiana,49,0
-2022-07-31,Iowa,10,0
-2022-07-31,Kansas,1,0
-2022-07-31,Kentucky,8,0
-2022-07-31,Louisiana,38,0
-2022-07-31,Maine,1,0
-2022-07-31,Maryland,117,0
-2022-07-31,Massachusetts,116,0
-2022-07-31,Michigan,28,0
-2022-07-31,Minnesota,33,0
-2022-07-31,Mississippi,3,0
-2022-07-31,Missouri,9,0
-2022-07-31,Nebraska,10,0
-2022-07-31,Nevada,14,0
-2022-07-31,New Hampshire,9,0
-2022-07-31,New Jersey,118,0
-2022-07-31,New Mexico,7,0
-2022-07-31,New York,1345,0
-2022-07-31,North Carolina,53,0
-2022-07-31,North Dakota,1,0
-2022-07-31,Ohio,23,0
-2022-07-31,Oklahoma,9,0
-2022-07-31,Oregon,58,0
-2022-07-31,Pennsylvania,125,0
-2022-07-31,Puerto Rico,14,0
-2022-07-31,Rhode Island,19,0
-2022-07-31,South Carolina,16,0
-2022-07-31,South Dakota,1,0
-2022-07-31,Tennessee,26,0
-2022-07-31,Texas,351,0
-2022-07-31,Utah,27,0
-2022-07-31,Virginia,76,0
-2022-07-31,Washington,120,0
-2022-07-31,West Virginia,3,0
-2022-07-31,Wisconsin,13,0
-2022-08-01,Alabama,16,0
-2022-08-01,Alaska,1,0
-2022-08-01,Arizona,50,0
-2022-08-01,Arkansas,4,0
-2022-08-01,California,799,0
-2022-08-01,Colorado,53,0
-2022-08-01,Connecticut,33,0
-2022-08-01,Delaware,4,0
-2022-08-01,District of Columbia,218,0
-2022-08-01,Florida,373,0
-2022-08-01,Georgia,351,0
-2022-08-01,Hawaii,10,0
-2022-08-01,Idaho,4,0
-2022-08-01,Illinois,419,0
-2022-08-01,Indiana,49,0
-2022-08-01,Iowa,10,0
-2022-08-01,Kansas,1,0
-2022-08-01,Kentucky,8,0
-2022-08-01,Louisiana,38,0
-2022-08-01,Maine,1,0
-2022-08-01,Maryland,117,0
-2022-08-01,Massachusetts,116,0
-2022-08-01,Michigan,28,0
-2022-08-01,Minnesota,33,0
-2022-08-01,Mississippi,3,0
-2022-08-01,Missouri,9,0
-2022-08-01,Nebraska,10,0
-2022-08-01,Nevada,14,0
-2022-08-01,New Hampshire,9,0
-2022-08-01,New Jersey,118,0
-2022-08-01,New Mexico,7,0
-2022-08-01,New York,1345,0
-2022-08-01,North Carolina,53,0
-2022-08-01,North Dakota,1,0
-2022-08-01,Ohio,23,0
-2022-08-01,Oklahoma,9,0
-2022-08-01,Oregon,58,0
-2022-08-01,Pennsylvania,125,0
-2022-08-01,Puerto Rico,14,0
-2022-08-01,Rhode Island,19,0
-2022-08-01,South Carolina,16,0
-2022-08-01,South Dakota,1,0
-2022-08-01,Tennessee,26,0
-2022-08-01,Texas,351,0
-2022-08-01,Utah,27,0
-2022-08-01,Virginia,76,0
-2022-08-01,Washington,120,0
-2022-08-01,West Virginia,3,0
-2022-08-01,Wisconsin,13,0
-2022-08-02,Alabama,19,3
-2022-08-02,Alaska,1,0
-2022-08-02,Arizona,80,30
-2022-08-02,Arkansas,5,1
-2022-08-02,California,826,27
-2022-08-02,Colorado,53,0
-2022-08-02,Connecticut,39,6
-2022-08-02,Delaware,5,1
-2022-08-02,District of Columbia,248,30
-2022-08-02,Florida,480,107
-2022-08-02,Georgia,455,104
-2022-08-02,Hawaii,10,0
-2022-08-02,Idaho,5,1
-2022-08-02,Illinois,533,114
-2022-08-02,Indiana,58,9
-2022-08-02,Iowa,10,0
-2022-08-02,Kansas,1,0
-2022-08-02,Kentucky,8,0
-2022-08-02,Louisiana,56,18
-2022-08-02,Maine,1,0
-2022-08-02,Maryland,149,32
-2022-08-02,Massachusetts,134,18
-2022-08-02,Michigan,34,6
-2022-08-02,Minnesota,38,5
-2022-08-02,Mississippi,4,1
-2022-08-02,Missouri,10,1
-2022-08-02,Nebraska,10,0
-2022-08-02,Nevada,25,11
-2022-08-02,New Hampshire,13,4
-2022-08-02,New Jersey,155,37
-2022-08-02,New Mexico,10,3
-2022-08-02,New York,1617,272
-2022-08-02,North Carolina,69,16
-2022-08-02,North Dakota,1,0
-2022-08-02,Ohio,30,7
-2022-08-02,Oklahoma,10,1
-2022-08-02,Oregon,74,16
-2022-08-02,Pennsylvania,170,45
-2022-08-02,Puerto Rico,19,5
-2022-08-02,Rhode Island,24,5
-2022-08-02,South Carolina,23,7
-2022-08-02,South Dakota,1,0
-2022-08-02,Tennessee,37,11
-2022-08-02,Texas,485,134
-2022-08-02,Utah,37,10
-2022-08-02,Vermont,1,
-2022-08-02,Virginia,105,29
-2022-08-02,Washington,123,3
-2022-08-02,West Virginia,3,0
-2022-08-02,Wisconsin,19,6
-2022-08-02,Non-US Resident,3,0
-2022-08-03,Alabama,19,0
-2022-08-03,Alaska,1,0
-2022-08-03,Arizona,85,5
-2022-08-03,Arkansas,5,0
-2022-08-03,California,826,0
-2022-08-03,Colorado,53,0
-2022-08-03,Connecticut,39,0
-2022-08-03,Delaware,5,0
-2022-08-03,District of Columbia,257,9
-2022-08-03,Florida,525,45
-2022-08-03,Georgia,504,49
-2022-08-03,Hawaii,10,0
-2022-08-03,Idaho,5,0
-2022-08-03,Illinois,547,14
-2022-08-03,Indiana,62,4
-2022-08-03,Iowa,11,1
-2022-08-03,Kansas,1,0
-2022-08-03,Kentucky,8,0
-2022-08-03,Louisiana,58,2
-2022-08-03,Maine,2,1
-2022-08-03,Maryland,157,8
-2022-08-03,Massachusetts,134,0
-2022-08-03,Michigan,56,22
-2022-08-03,Minnesota,39,1
-2022-08-03,Mississippi,4,0
-2022-08-03,Missouri,12,2
-2022-08-03,Nebraska,10,0
-2022-08-03,Nevada,26,1
-2022-08-03,New Hampshire,14,1
-2022-08-03,New Jersey,160,5
-2022-08-03,New Mexico,10,0
-2022-08-03,New York,1666,49
-2022-08-03,North Carolina,72,3
-2022-08-03,North Dakota,1,0
-2022-08-03,Ohio,34,4
-2022-08-03,Oklahoma,10,0
-2022-08-03,Oregon,75,1
-2022-08-03,Pennsylvania,173,3
-2022-08-03,Puerto Rico,19,0
-2022-08-03,Rhode Island,26,2
-2022-08-03,South Carolina,23,0
-2022-08-03,South Dakota,1,0
-2022-08-03,Tennessee,39,2
-2022-08-03,Texas,527,42
-2022-08-03,Utah,41,4
-2022-08-03,Vermont,1,0
-2022-08-03,Virginia,105,0
-2022-08-03,Washington,134,11
-2022-08-03,West Virginia,3,0
-2022-08-03,Wisconsin,19,0
-2022-08-03,Non-US Resident,3,0
-2022-08-04,Alabama,19,0
-2022-08-04,Alaska,1,0
-2022-08-04,Arizona,85,0
-2022-08-04,Arkansas,5,0
-2022-08-04,California,826,0
-2022-08-04,Colorado,53,0
-2022-08-04,Connecticut,39,0
-2022-08-04,Delaware,5,0
-2022-08-04,District of Columbia,257,0
-2022-08-04,Florida,525,0
-2022-08-04,Georgia,504,0
-2022-08-04,Hawaii,10,0
-2022-08-04,Idaho,5,0
-2022-08-04,Illinois,547,0
-2022-08-04,Indiana,62,0
-2022-08-04,Iowa,11,0
-2022-08-04,Kansas,1,0
-2022-08-04,Kentucky,8,0
-2022-08-04,Louisiana,58,0
-2022-08-04,Maine,2,0
-2022-08-04,Maryland,157,0
-2022-08-04,Massachusetts,134,0
-2022-08-04,Michigan,56,0
-2022-08-04,Minnesota,39,0
-2022-08-04,Mississippi,4,0
-2022-08-04,Missouri,12,0
-2022-08-04,Nebraska,10,0
-2022-08-04,Nevada,26,0
-2022-08-04,New Hampshire,14,0
-2022-08-04,New Jersey,160,0
-2022-08-04,New Mexico,10,0
-2022-08-04,New York,1666,0
-2022-08-04,North Carolina,72,0
-2022-08-04,North Dakota,1,0
-2022-08-04,Ohio,34,0
-2022-08-04,Oklahoma,10,0
-2022-08-04,Oregon,75,0
-2022-08-04,Pennsylvania,173,0
-2022-08-04,Puerto Rico,19,0
-2022-08-04,Rhode Island,26,0
-2022-08-04,South Carolina,23,0
-2022-08-04,South Dakota,1,0
-2022-08-04,Tennessee,39,0
-2022-08-04,Texas,527,0
-2022-08-04,Utah,41,0
-2022-08-04,Vermont,1,0
-2022-08-04,Virginia,105,0
-2022-08-04,Washington,134,0
-2022-08-04,West Virginia,3,0
-2022-08-04,Wisconsin,19,0
-2022-08-04,Non-US Resident,3,0
-2022-08-05,Alabama,19,0
-2022-08-05,Alaska,1,0
-2022-08-05,Arizona,85,0
-2022-08-05,Arkansas,5,0
-2022-08-05,California,826,0
-2022-08-05,Colorado,53,0
-2022-08-05,Connecticut,39,0
-2022-08-05,Delaware,5,0
-2022-08-05,District of Columbia,257,0
-2022-08-05,Florida,525,0
-2022-08-05,Georgia,504,0
-2022-08-05,Hawaii,10,0
-2022-08-05,Idaho,5,0
-2022-08-05,Illinois,547,0
-2022-08-05,Indiana,62,0
-2022-08-05,Iowa,11,0
-2022-08-05,Kansas,1,0
-2022-08-05,Kentucky,8,0
-2022-08-05,Louisiana,58,0
-2022-08-05,Maine,2,0
-2022-08-05,Maryland,157,0
-2022-08-05,Massachusetts,134,0
-2022-08-05,Michigan,56,0
-2022-08-05,Minnesota,39,0
-2022-08-05,Mississippi,4,0
-2022-08-05,Missouri,12,0
-2022-08-05,Nebraska,10,0
-2022-08-05,Nevada,26,0
-2022-08-05,New Hampshire,14,0
-2022-08-05,New Jersey,160,0
-2022-08-05,New Mexico,10,0
-2022-08-05,New York,1666,0
-2022-08-05,North Carolina,72,0
-2022-08-05,North Dakota,1,0
-2022-08-05,Ohio,34,0
-2022-08-05,Oklahoma,10,0
-2022-08-05,Oregon,75,0
-2022-08-05,Pennsylvania,173,0
-2022-08-05,Puerto Rico,19,0
-2022-08-05,Rhode Island,26,0
-2022-08-05,South Carolina,23,0
-2022-08-05,South Dakota,1,0
-2022-08-05,Tennessee,39,0
-2022-08-05,Texas,527,0
-2022-08-05,Utah,41,0
-2022-08-05,Vermont,1,0
-2022-08-05,Virginia,105,0
-2022-08-05,Washington,134,0
-2022-08-05,West Virginia,3,0
-2022-08-05,Wisconsin,19,0
-2022-08-05,Non-US Resident,3,0
-2022-08-06,Alabama,19,0
-2022-08-06,Alaska,1,0
-2022-08-06,Arizona,85,0
-2022-08-06,Arkansas,5,0
-2022-08-06,California,826,0
-2022-08-06,Colorado,53,0
-2022-08-06,Connecticut,39,0
-2022-08-06,Delaware,5,0
-2022-08-06,District of Columbia,257,0
-2022-08-06,Florida,525,0
-2022-08-06,Georgia,504,0
-2022-08-06,Hawaii,10,0
-2022-08-06,Idaho,5,0
-2022-08-06,Illinois,547,0
-2022-08-06,Indiana,62,0
-2022-08-06,Iowa,11,0
-2022-08-06,Kansas,1,0
-2022-08-06,Kentucky,8,0
-2022-08-06,Louisiana,58,0
-2022-08-06,Maine,2,0
-2022-08-06,Maryland,157,0
-2022-08-06,Massachusetts,134,0
-2022-08-06,Michigan,56,0
-2022-08-06,Minnesota,39,0
-2022-08-06,Mississippi,4,0
-2022-08-06,Missouri,12,0
-2022-08-06,Nebraska,10,0
-2022-08-06,Nevada,26,0
-2022-08-06,New Hampshire,14,0
-2022-08-06,New Jersey,160,0
-2022-08-06,New Mexico,10,0
-2022-08-06,New York,1666,0
-2022-08-06,North Carolina,72,0
-2022-08-06,North Dakota,1,0
-2022-08-06,Ohio,34,0
-2022-08-06,Oklahoma,10,0
-2022-08-06,Oregon,75,0
-2022-08-06,Pennsylvania,173,0
-2022-08-06,Puerto Rico,19,0
-2022-08-06,Rhode Island,26,0
-2022-08-06,South Carolina,23,0
-2022-08-06,South Dakota,1,0
-2022-08-06,Tennessee,39,0
-2022-08-06,Texas,527,0
-2022-08-06,Utah,41,0
-2022-08-06,Vermont,1,0
-2022-08-06,Virginia,105,0
-2022-08-06,Washington,134,0
-2022-08-06,West Virginia,3,0
-2022-08-06,Wisconsin,19,0
-2022-08-06,Non-US Resident,3,0
-2022-08-07,Alabama,19,0
-2022-08-07,Alaska,1,0
-2022-08-07,Arizona,85,0
-2022-08-07,Arkansas,5,0
-2022-08-07,California,826,0
-2022-08-07,Colorado,53,0
-2022-08-07,Connecticut,39,0
-2022-08-07,Delaware,5,0
-2022-08-07,District of Columbia,257,0
-2022-08-07,Florida,525,0
-2022-08-07,Georgia,504,0
-2022-08-07,Hawaii,10,0
-2022-08-07,Idaho,5,0
-2022-08-07,Illinois,547,0
-2022-08-07,Indiana,62,0
-2022-08-07,Iowa,11,0
-2022-08-07,Kansas,1,0
-2022-08-07,Kentucky,8,0
-2022-08-07,Louisiana,58,0
-2022-08-07,Maine,2,0
-2022-08-07,Maryland,157,0
-2022-08-07,Massachusetts,134,0
-2022-08-07,Michigan,56,0
-2022-08-07,Minnesota,39,0
-2022-08-07,Mississippi,4,0
-2022-08-07,Missouri,12,0
-2022-08-07,Nebraska,10,0
-2022-08-07,Nevada,26,0
-2022-08-07,New Hampshire,14,0
-2022-08-07,New Jersey,160,0
-2022-08-07,New Mexico,10,0
-2022-08-07,New York,1666,0
-2022-08-07,North Carolina,72,0
-2022-08-07,North Dakota,1,0
-2022-08-07,Ohio,34,0
-2022-08-07,Oklahoma,10,0
-2022-08-07,Oregon,75,0
-2022-08-07,Pennsylvania,173,0
-2022-08-07,Puerto Rico,19,0
-2022-08-07,Rhode Island,26,0
-2022-08-07,South Carolina,23,0
-2022-08-07,South Dakota,1,0
-2022-08-07,Tennessee,39,0
-2022-08-07,Texas,527,0
-2022-08-07,Utah,41,0
-2022-08-07,Vermont,1,0
-2022-08-07,Virginia,105,0
-2022-08-07,Washington,134,0
-2022-08-07,West Virginia,3,0
-2022-08-07,Wisconsin,19,0
-2022-08-07,Non-US Resident,3,0
-2022-08-08,Alabama,19,0
-2022-08-08,Alaska,1,0
-2022-08-08,Arizona,85,0
-2022-08-08,Arkansas,5,0
-2022-08-08,California,826,0
-2022-08-08,Colorado,53,0
-2022-08-08,Connecticut,39,0
-2022-08-08,Delaware,5,0
-2022-08-08,District of Columbia,257,0
-2022-08-08,Florida,525,0
-2022-08-08,Georgia,504,0
-2022-08-08,Hawaii,10,0
-2022-08-08,Idaho,5,0
-2022-08-08,Illinois,547,0
-2022-08-08,Indiana,62,0
-2022-08-08,Iowa,11,0
-2022-08-08,Kansas,1,0
-2022-08-08,Kentucky,8,0
-2022-08-08,Louisiana,58,0
-2022-08-08,Maine,2,0
-2022-08-08,Maryland,157,0
-2022-08-08,Massachusetts,134,0
-2022-08-08,Michigan,56,0
-2022-08-08,Minnesota,39,0
-2022-08-08,Mississippi,4,0
-2022-08-08,Missouri,12,0
-2022-08-08,Nebraska,10,0
-2022-08-08,Nevada,26,0
-2022-08-08,New Hampshire,14,0
-2022-08-08,New Jersey,160,0
-2022-08-08,New Mexico,10,0
-2022-08-08,New York,1666,0
-2022-08-08,North Carolina,72,0
-2022-08-08,North Dakota,1,0
-2022-08-08,Ohio,34,0
-2022-08-08,Oklahoma,10,0
-2022-08-08,Oregon,75,0
-2022-08-08,Pennsylvania,173,0
-2022-08-08,Puerto Rico,19,0
-2022-08-08,Rhode Island,26,0
-2022-08-08,South Carolina,23,0
-2022-08-08,South Dakota,1,0
-2022-08-08,Tennessee,39,0
-2022-08-08,Texas,527,0
-2022-08-08,Utah,41,0
-2022-08-08,Vermont,1,0
-2022-08-08,Virginia,105,0
-2022-08-08,Washington,134,0
-2022-08-08,West Virginia,3,0
-2022-08-08,Wisconsin,19,0
-2022-08-08,Non-US Resident,3,0
-2022-08-09,Alabama,19,0
-2022-08-09,Alaska,1,0
-2022-08-09,Arizona,85,0
-2022-08-09,Arkansas,5,0
-2022-08-09,California,826,0
-2022-08-09,Colorado,53,0
-2022-08-09,Connecticut,39,0
-2022-08-09,Delaware,5,0
-2022-08-09,District of Columbia,257,0
-2022-08-09,Florida,525,0
-2022-08-09,Georgia,504,0
-2022-08-09,Hawaii,10,0
-2022-08-09,Idaho,5,0
-2022-08-09,Illinois,547,0
-2022-08-09,Indiana,62,0
-2022-08-09,Iowa,11,0
-2022-08-09,Kansas,1,0
-2022-08-09,Kentucky,8,0
-2022-08-09,Louisiana,58,0
-2022-08-09,Maine,2,0
-2022-08-09,Maryland,157,0
-2022-08-09,Massachusetts,134,0
-2022-08-09,Michigan,56,0
-2022-08-09,Minnesota,39,0
-2022-08-09,Mississippi,4,0
-2022-08-09,Missouri,12,0
-2022-08-09,Nebraska,10,0
-2022-08-09,Nevada,26,0
-2022-08-09,New Hampshire,14,0
-2022-08-09,New Jersey,160,0
-2022-08-09,New Mexico,10,0
-2022-08-09,New York,1666,0
-2022-08-09,North Carolina,72,0
-2022-08-09,North Dakota,1,0
-2022-08-09,Ohio,34,0
-2022-08-09,Oklahoma,10,0
-2022-08-09,Oregon,75,0
-2022-08-09,Pennsylvania,173,0
-2022-08-09,Puerto Rico,19,0
-2022-08-09,Rhode Island,26,0
-2022-08-09,South Carolina,23,0
-2022-08-09,South Dakota,1,0
-2022-08-09,Tennessee,39,0
-2022-08-09,Texas,527,0
-2022-08-09,Utah,41,0
-2022-08-09,Vermont,1,0
-2022-08-09,Virginia,105,0
-2022-08-09,Washington,134,0
-2022-08-09,West Virginia,3,0
-2022-08-09,Wisconsin,19,0
-2022-08-09,Non-US Resident,3,0
-2022-08-10,Alabama,19,0
-2022-08-10,Alaska,1,0
-2022-08-10,Arizona,85,0
-2022-08-10,Arkansas,5,0
-2022-08-10,California,826,0
-2022-08-10,Colorado,53,0
-2022-08-10,Connecticut,39,0
-2022-08-10,Delaware,5,0
-2022-08-10,District of Columbia,257,0
-2022-08-10,Florida,525,0
-2022-08-10,Georgia,504,0
-2022-08-10,Hawaii,10,0
-2022-08-10,Idaho,5,0
-2022-08-10,Illinois,547,0
-2022-08-10,Indiana,62,0
-2022-08-10,Iowa,11,0
-2022-08-10,Kansas,1,0
-2022-08-10,Kentucky,8,0
-2022-08-10,Louisiana,58,0
-2022-08-10,Maine,2,0
-2022-08-10,Maryland,157,0
-2022-08-10,Massachusetts,134,0
-2022-08-10,Michigan,56,0
-2022-08-10,Minnesota,39,0
-2022-08-10,Mississippi,4,0
-2022-08-10,Missouri,12,0
-2022-08-10,Nebraska,10,0
-2022-08-10,Nevada,26,0
-2022-08-10,New Hampshire,14,0
-2022-08-10,New Jersey,160,0
-2022-08-10,New Mexico,10,0
-2022-08-10,New York,1666,0
-2022-08-10,North Carolina,72,0
-2022-08-10,North Dakota,1,0
-2022-08-10,Ohio,34,0
-2022-08-10,Oklahoma,10,0
-2022-08-10,Oregon,75,0
-2022-08-10,Pennsylvania,173,0
-2022-08-10,Puerto Rico,19,0
-2022-08-10,Rhode Island,26,0
-2022-08-10,South Carolina,23,0
-2022-08-10,South Dakota,1,0
-2022-08-10,Tennessee,39,0
-2022-08-10,Texas,527,0
-2022-08-10,Utah,41,0
-2022-08-10,Vermont,1,0
-2022-08-10,Virginia,105,0
-2022-08-10,Washington,134,0
-2022-08-10,West Virginia,3,0
-2022-08-10,Wisconsin,19,0
-2022-08-10,Non-US Resident,3,0
-2022-08-11,Alabama,19,0
-2022-08-11,Alaska,1,0
-2022-08-11,Arizona,85,0
-2022-08-11,Arkansas,5,0
-2022-08-11,California,826,0
-2022-08-11,Colorado,53,0
-2022-08-11,Connecticut,39,0
-2022-08-11,Delaware,5,0
-2022-08-11,District of Columbia,257,0
-2022-08-11,Florida,525,0
-2022-08-11,Georgia,504,0
-2022-08-11,Hawaii,10,0
-2022-08-11,Idaho,5,0
-2022-08-11,Illinois,547,0
-2022-08-11,Indiana,62,0
-2022-08-11,Iowa,11,0
-2022-08-11,Kansas,1,0
-2022-08-11,Kentucky,8,0
-2022-08-11,Louisiana,58,0
-2022-08-11,Maine,2,0
-2022-08-11,Maryland,157,0
-2022-08-11,Massachusetts,134,0
-2022-08-11,Michigan,56,0
-2022-08-11,Minnesota,39,0
-2022-08-11,Mississippi,4,0
-2022-08-11,Missouri,12,0
-2022-08-11,Nebraska,10,0
-2022-08-11,Nevada,26,0
-2022-08-11,New Hampshire,14,0
-2022-08-11,New Jersey,160,0
-2022-08-11,New Mexico,10,0
-2022-08-11,New York,1666,0
-2022-08-11,North Carolina,72,0
-2022-08-11,North Dakota,1,0
-2022-08-11,Ohio,34,0
-2022-08-11,Oklahoma,10,0
-2022-08-11,Oregon,75,0
-2022-08-11,Pennsylvania,173,0
-2022-08-11,Puerto Rico,19,0
-2022-08-11,Rhode Island,26,0
-2022-08-11,South Carolina,23,0
-2022-08-11,South Dakota,1,0
-2022-08-11,Tennessee,39,0
-2022-08-11,Texas,527,0
-2022-08-11,Utah,41,0
-2022-08-11,Vermont,1,0
-2022-08-11,Virginia,105,0
-2022-08-11,Washington,134,0
-2022-08-11,West Virginia,3,0
-2022-08-11,Wisconsin,19,0
-2022-08-11,Non-US Resident,3,0
+DateDT,StateDSC,CasesCumulativeCNT,AsOf,CasesDailyNBR
+2022-07-20,Alabama,4,,
+2022-07-20,Arizona,22,,
+2022-07-20,Arkansas,1,,
+2022-07-20,California,356,,
+2022-07-20,Colorado,38,,
+2022-07-20,Connecticut,15,,
+2022-07-20,Delaware,1,,
+2022-07-20,District of Columbia,110,,
+2022-07-20,Florida,208,,
+2022-07-20,Georgia,158,,
+2022-07-20,Hawaii,8,,
+2022-07-20,Idaho,1,,
+2022-07-20,Illinois,208,,
+2022-07-20,Indiana,26,,
+2022-07-20,Iowa,5,,
+2022-07-20,Kansas,1,,
+2022-07-20,Kentucky,4,,
+2022-07-20,Louisiana,16,,
+2022-07-20,Maryland,55,,
+2022-07-20,Massachusetts,69,,
+2022-07-20,Michigan,19,,
+2022-07-20,Minnesota,15,,
+2022-07-20,Missouri,5,,
+2022-07-20,Nebraska,2,,
+2022-07-20,Nevada,7,,
+2022-07-20,New Hampshire,3,,
+2022-07-20,New Jersey,41,,
+2022-07-20,New Mexico,6,,
+2022-07-20,New York,581,,
+2022-07-20,North Carolina,13,,
+2022-07-20,Ohio,11,,
+2022-07-20,Oklahoma,3,,
+2022-07-20,Oregon,9,,
+2022-07-20,Pennsylvania,58,,
+2022-07-20,Puerto Rico,7,,
+2022-07-20,Rhode Island,7,,
+2022-07-20,South Carolina,6,,
+2022-07-20,South Dakota,1,,
+2022-07-20,Tennessee,10,,
+2022-07-20,Texas,81,,
+2022-07-20,Utah,11,,
+2022-07-20,Virginia,56,,
+2022-07-20,Washington,55,,
+2022-07-20,West Virginia,1,,
+2022-07-20,Wisconsin,6,,
+2022-07-20,Non-US Resident,3,,
+2022-07-21,Alabama,4,,0
+2022-07-21,Arizona,22,,0
+2022-07-21,Arkansas,1,,0
+2022-07-21,California,356,,0
+2022-07-21,Colorado,38,,0
+2022-07-21,Connecticut,15,,0
+2022-07-21,Delaware,1,,0
+2022-07-21,District of Columbia,110,,0
+2022-07-21,Florida,208,,0
+2022-07-21,Georgia,158,,0
+2022-07-21,Hawaii,8,,0
+2022-07-21,Idaho,1,,0
+2022-07-21,Illinois,208,,0
+2022-07-21,Indiana,26,,0
+2022-07-21,Iowa,5,,0
+2022-07-21,Kansas,1,,0
+2022-07-21,Kentucky,4,,0
+2022-07-21,Louisiana,16,,0
+2022-07-21,Maryland,55,,0
+2022-07-21,Massachusetts,69,,0
+2022-07-21,Michigan,19,,0
+2022-07-21,Minnesota,15,,0
+2022-07-21,Missouri,5,,0
+2022-07-21,Nebraska,2,,0
+2022-07-21,Nevada,7,,0
+2022-07-21,New Hampshire,3,,0
+2022-07-21,New Jersey,41,,0
+2022-07-21,New Mexico,6,,0
+2022-07-21,New York,581,,0
+2022-07-21,North Carolina,13,,0
+2022-07-21,Ohio,11,,0
+2022-07-21,Oklahoma,3,,0
+2022-07-21,Oregon,9,,0
+2022-07-21,Pennsylvania,58,,0
+2022-07-21,Puerto Rico,7,,0
+2022-07-21,Rhode Island,7,,0
+2022-07-21,South Carolina,6,,0
+2022-07-21,South Dakota,1,,0
+2022-07-21,Tennessee,10,,0
+2022-07-21,Texas,81,,0
+2022-07-21,Utah,11,,0
+2022-07-21,Virginia,56,,0
+2022-07-21,Washington,55,,0
+2022-07-21,West Virginia,1,,0
+2022-07-21,Wisconsin,6,,0
+2022-07-21,Non-US Resident,3,,0
+2022-07-22,Alabama,6,,2
+2022-07-22,Arizona,22,,0
+2022-07-22,Arkansas,3,,2
+2022-07-22,California,356,,0
+2022-07-22,Colorado,31,,-7
+2022-07-22,Connecticut,16,,1
+2022-07-22,Delaware,3,,2
+2022-07-22,District of Columbia,110,,0
+2022-07-22,Florida,226,,18
+2022-07-22,Georgia,158,,0
+2022-07-22,Hawaii,8,,0
+2022-07-22,Idaho,2,,1
+2022-07-22,Illinois,230,,22
+2022-07-22,Indiana,35,,9
+2022-07-22,Iowa,5,,0
+2022-07-22,Kansas,2,,1
+2022-07-22,Kentucky,4,,0
+2022-07-22,Louisiana,17,,1
+2022-07-22,Maryland,49,,-6
+2022-07-22,Massachusetts,55,,-14
+2022-07-22,Michigan,19,,0
+2022-07-22,Minnesota,19,,4
+2022-07-22,Missouri,8,,3
+2022-07-22,Nebraska,5,,3
+2022-07-22,Nevada,8,,1
+2022-07-22,New Hampshire,3,,0
+2022-07-22,New Jersey,41,,0
+2022-07-22,New Mexico,7,,1
+2022-07-22,New York,830,,249
+2022-07-22,North Carolina,13,,0
+2022-07-22,North Dakota,1,,
+2022-07-22,Ohio,9,,-2
+2022-07-22,Oklahoma,5,,2
+2022-07-22,Oregon,9,,0
+2022-07-22,Pennsylvania,58,,0
+2022-07-22,Puerto Rico,12,,5
+2022-07-22,Rhode Island,7,,0
+2022-07-22,South Carolina,9,,3
+2022-07-22,South Dakota,1,,0
+2022-07-22,Tennessee,16,,6
+2022-07-22,Texas,61,,-20
+2022-07-22,Utah,11,,0
+2022-07-22,Virginia,40,,-16
+2022-07-22,Washington,53,,-2
+2022-07-22,West Virginia,1,,0
+2022-07-22,Wisconsin,6,,0
+2022-07-22,Non-US Resident,3,,0
+2022-07-23,Alabama,4,,-2
+2022-07-23,Arizona,29,,7
+2022-07-23,Arkansas,3,,0
+2022-07-23,California,356,,0
+2022-07-23,Colorado,47,,16
+2022-07-23,Connecticut,19,,3
+2022-07-23,Delaware,3,,0
+2022-07-23,District of Columbia,110,,0
+2022-07-23,Florida,247,,21
+2022-07-23,Georgia,211,,53
+2022-07-23,Hawaii,8,,0
+2022-07-23,Idaho,2,,0
+2022-07-23,Illinois,238,,8
+2022-07-23,Indiana,31,,-4
+2022-07-23,Iowa,6,,1
+2022-07-23,Kansas,2,,0
+2022-07-23,Kentucky,4,,0
+2022-07-23,Louisiana,21,,4
+2022-07-23,Maryland,71,,22
+2022-07-23,Massachusetts,79,,24
+2022-07-23,Michigan,27,,8
+2022-07-23,Minnesota,19,,0
+2022-07-23,Missouri,5,,-3
+2022-07-23,Nebraska,5,,0
+2022-07-23,Nevada,8,,0
+2022-07-23,New Hampshire,3,,0
+2022-07-23,New Jersey,41,,0
+2022-07-23,New Mexico,7,,0
+2022-07-23,New York,900,,70
+2022-07-23,North Carolina,13,,0
+2022-07-23,North Dakota,1,,0
+2022-07-23,Ohio,4,,-5
+2022-07-23,Oklahoma,4,,-1
+2022-07-23,Oregon,36,,27
+2022-07-23,Pennsylvania,55,,-3
+2022-07-23,Puerto Rico,10,,-2
+2022-07-23,Rhode Island,9,,2
+2022-07-23,South Carolina,7,,-2
+2022-07-23,South Dakota,1,,0
+2022-07-23,Tennessee,15,,-1
+2022-07-23,Texas,107,,46
+2022-07-23,Utah,13,,2
+2022-07-23,Virginia,40,,0
+2022-07-23,Washington,60,,7
+2022-07-23,West Virginia,1,,0
+2022-07-23,Wisconsin,6,,0
+2022-07-23,Non-US Resident,3,,0
+2022-07-24,Alabama,4,,0
+2022-07-24,Arizona,29,,0
+2022-07-24,Arkansas,3,,0
+2022-07-24,California,356,,0
+2022-07-24,Colorado,47,,0
+2022-07-24,Connecticut,19,,0
+2022-07-24,Delaware,3,,0
+2022-07-24,District of Columbia,110,,0
+2022-07-24,Florida,247,,0
+2022-07-24,Georgia,211,,0
+2022-07-24,Hawaii,8,,0
+2022-07-24,Idaho,2,,0
+2022-07-24,Illinois,238,,0
+2022-07-24,Indiana,31,,0
+2022-07-24,Iowa,6,,0
+2022-07-24,Kansas,2,,0
+2022-07-24,Kentucky,4,,0
+2022-07-24,Louisiana,21,,0
+2022-07-24,Maryland,71,,0
+2022-07-24,Massachusetts,79,,0
+2022-07-24,Michigan,27,,0
+2022-07-24,Minnesota,19,,0
+2022-07-24,Missouri,5,,0
+2022-07-24,Nebraska,5,,0
+2022-07-24,Nevada,8,,0
+2022-07-24,New Hampshire,3,,0
+2022-07-24,New Jersey,41,,0
+2022-07-24,New Mexico,7,,0
+2022-07-24,New York,900,,0
+2022-07-24,North Carolina,13,,0
+2022-07-24,North Dakota,1,,0
+2022-07-24,Ohio,4,,0
+2022-07-24,Oklahoma,4,,0
+2022-07-24,Oregon,36,,0
+2022-07-24,Pennsylvania,55,,0
+2022-07-24,Puerto Rico,10,,0
+2022-07-24,Rhode Island,9,,0
+2022-07-24,South Carolina,7,,0
+2022-07-24,South Dakota,1,,0
+2022-07-24,Tennessee,15,,0
+2022-07-24,Texas,107,,0
+2022-07-24,Utah,13,,0
+2022-07-24,Virginia,40,,0
+2022-07-24,Washington,60,,0
+2022-07-24,West Virginia,1,,0
+2022-07-24,Wisconsin,6,,0
+2022-07-24,Non-US Resident,3,,0
+2022-07-25,Alabama,4,,0
+2022-07-25,Arizona,29,,0
+2022-07-25,Arkansas,3,,0
+2022-07-25,California,356,,0
+2022-07-25,Colorado,47,,0
+2022-07-25,Connecticut,19,,0
+2022-07-25,Delaware,3,,0
+2022-07-25,District of Columbia,110,,0
+2022-07-25,Florida,247,,0
+2022-07-25,Georgia,211,,0
+2022-07-25,Hawaii,8,,0
+2022-07-25,Idaho,2,,0
+2022-07-25,Illinois,238,,0
+2022-07-25,Indiana,31,,0
+2022-07-25,Iowa,6,,0
+2022-07-25,Kansas,2,,0
+2022-07-25,Kentucky,4,,0
+2022-07-25,Louisiana,21,,0
+2022-07-25,Maryland,71,,0
+2022-07-25,Massachusetts,79,,0
+2022-07-25,Michigan,27,,0
+2022-07-25,Minnesota,19,,0
+2022-07-25,Missouri,5,,0
+2022-07-25,Nebraska,5,,0
+2022-07-25,Nevada,8,,0
+2022-07-25,New Hampshire,3,,0
+2022-07-25,New Jersey,41,,0
+2022-07-25,New Mexico,7,,0
+2022-07-25,New York,900,,0
+2022-07-25,North Carolina,13,,0
+2022-07-25,North Dakota,1,,0
+2022-07-25,Ohio,4,,0
+2022-07-25,Oklahoma,4,,0
+2022-07-25,Oregon,36,,0
+2022-07-25,Pennsylvania,55,,0
+2022-07-25,Puerto Rico,10,,0
+2022-07-25,Rhode Island,9,,0
+2022-07-25,South Carolina,7,,0
+2022-07-25,South Dakota,1,,0
+2022-07-25,Tennessee,15,,0
+2022-07-25,Texas,107,,0
+2022-07-25,Utah,13,,0
+2022-07-25,Virginia,40,,0
+2022-07-25,Washington,60,,0
+2022-07-25,West Virginia,1,,0
+2022-07-25,Wisconsin,6,,0
+2022-07-25,Non-US Resident,3,,0
+2022-07-26,Alabama,5,,1
+2022-07-26,Arizona,35,,6
+2022-07-26,Arkansas,4,,1
+2022-07-26,California,356,,0
+2022-07-26,Colorado,53,,6
+2022-07-26,Connecticut,22,,3
+2022-07-26,Delaware,3,,0
+2022-07-26,District of Columbia,139,,29
+2022-07-26,Florida,273,,26
+2022-07-26,Georgia,268,,57
+2022-07-26,Hawaii,10,,2
+2022-07-26,Idaho,2,,0
+2022-07-26,Illinois,344,,106
+2022-07-26,Indiana,33,,2
+2022-07-26,Iowa,7,,1
+2022-07-26,Kansas,2,,0
+2022-07-26,Kentucky,4,,0
+2022-07-26,Louisiana,25,,4
+2022-07-26,Maryland,87,,16
+2022-07-26,Massachusetts,82,,3
+2022-07-26,Michigan,24,,-3
+2022-07-26,Minnesota,20,,1
+2022-07-26,Mississippi,1,,
+2022-07-26,Missouri,8,,3
+2022-07-26,Nebraska,5,,0
+2022-07-26,Nevada,11,,3
+2022-07-26,New Hampshire,6,,3
+2022-07-26,New Jersey,81,,40
+2022-07-26,New Mexico,7,,0
+2022-07-26,New York,990,,90
+2022-07-26,North Carolina,34,,21
+2022-07-26,North Dakota,1,,0
+2022-07-26,Ohio,15,,11
+2022-07-26,Oklahoma,4,,0
+2022-07-26,Oregon,40,,4
+2022-07-26,Pennsylvania,84,,29
+2022-07-26,Puerto Rico,9,,-1
+2022-07-26,Rhode Island,10,,1
+2022-07-26,South Carolina,12,,5
+2022-07-26,South Dakota,1,,0
+2022-07-26,Tennessee,18,,3
+2022-07-26,Texas,220,,113
+2022-07-26,Utah,11,,-2
+2022-07-26,Virginia,39,,-1
+2022-07-26,Washington,69,,9
+2022-07-26,West Virginia,1,,0
+2022-07-26,Wisconsin,9,,3
+2022-07-26,Non-US Resident,3,,0
+2022-07-27,Alabama,6,,1
+2022-07-27,Arizona,41,,6
+2022-07-27,Arkansas,4,,0
+2022-07-27,California,799,,443
+2022-07-27,Colorado,53,,0
+2022-07-27,Connecticut,28,,6
+2022-07-27,Delaware,3,,0
+2022-07-27,District of Columbia,205,,66
+2022-07-27,Florida,332,,59
+2022-07-27,Georgia,312,,44
+2022-07-27,Hawaii,10,,0
+2022-07-27,Idaho,3,,1
+2022-07-27,Illinois,385,,41
+2022-07-27,Indiana,37,,4
+2022-07-27,Iowa,9,,2
+2022-07-27,Kansas,1,,-1
+2022-07-27,Kentucky,6,,2
+2022-07-27,Louisiana,28,,3
+2022-07-27,Maine,1,,
+2022-07-27,Maryland,101,,14
+2022-07-27,Massachusetts,113,,31
+2022-07-27,Michigan,28,,4
+2022-07-27,Minnesota,28,,8
+2022-07-27,Mississippi,1,,0
+2022-07-27,Missouri,6,,-2
+2022-07-27,Nebraska,8,,3
+2022-07-27,Nevada,11,,0
+2022-07-27,New Hampshire,7,,1
+2022-07-27,New Jersey,102,,21
+2022-07-27,New Mexico,7,,0
+2022-07-27,New York,1228,,238
+2022-07-27,North Carolina,15,,-19
+2022-07-27,North Dakota,1,,0
+2022-07-27,Ohio,17,,2
+2022-07-27,Oklahoma,8,,4
+2022-07-27,Oregon,51,,11
+2022-07-27,Pennsylvania,114,,30
+2022-07-27,Puerto Rico,10,,1
+2022-07-27,Rhode Island,16,,6
+2022-07-27,South Carolina,13,,1
+2022-07-27,South Dakota,1,,0
+2022-07-27,Tennessee,21,,3
+2022-07-27,Texas,287,,67
+2022-07-27,Utah,22,,11
+2022-07-27,Virginia,39,,0
+2022-07-27,Washington,103,,34
+2022-07-27,West Virginia,2,,1
+2022-07-27,Wisconsin,13,,4
+2022-07-27,Non-US Resident,3,,0
+2022-07-28,Alabama,6,,0
+2022-07-28,Arizona,41,,0
+2022-07-28,Arkansas,4,,0
+2022-07-28,California,799,,0
+2022-07-28,Colorado,53,,0
+2022-07-28,Connecticut,28,,0
+2022-07-28,Delaware,3,,0
+2022-07-28,District of Columbia,205,,0
+2022-07-28,Florida,332,,0
+2022-07-28,Georgia,312,,0
+2022-07-28,Hawaii,10,,0
+2022-07-28,Idaho,3,,0
+2022-07-28,Illinois,385,,0
+2022-07-28,Indiana,37,,0
+2022-07-28,Iowa,9,,0
+2022-07-28,Kansas,1,,0
+2022-07-28,Kentucky,6,,0
+2022-07-28,Louisiana,28,,0
+2022-07-28,Maine,1,,0
+2022-07-28,Maryland,101,,0
+2022-07-28,Massachusetts,113,,0
+2022-07-28,Michigan,28,,0
+2022-07-28,Minnesota,28,,0
+2022-07-28,Mississippi,1,,0
+2022-07-28,Missouri,6,,0
+2022-07-28,Nebraska,8,,0
+2022-07-28,Nevada,11,,0
+2022-07-28,New Hampshire,7,,0
+2022-07-28,New Jersey,102,,0
+2022-07-28,New Mexico,7,,0
+2022-07-28,New York,1228,,0
+2022-07-28,North Carolina,15,,0
+2022-07-28,North Dakota,1,,0
+2022-07-28,Ohio,17,,0
+2022-07-28,Oklahoma,8,,0
+2022-07-28,Oregon,51,,0
+2022-07-28,Pennsylvania,114,,0
+2022-07-28,Puerto Rico,10,,0
+2022-07-28,Rhode Island,16,,0
+2022-07-28,South Carolina,13,,0
+2022-07-28,South Dakota,1,,0
+2022-07-28,Tennessee,21,,0
+2022-07-28,Texas,287,,0
+2022-07-28,Utah,22,,0
+2022-07-28,Virginia,39,,0
+2022-07-28,Washington,103,,0
+2022-07-28,West Virginia,2,,0
+2022-07-28,Wisconsin,13,,0
+2022-07-28,Non-US Resident,3,,0
+2022-07-30,Alabama,16,,10
+2022-07-30,Alaska,1,,
+2022-07-30,Arizona,50,,9
+2022-07-30,Arkansas,4,,0
+2022-07-30,California,799,,0
+2022-07-30,Colorado,53,,0
+2022-07-30,Connecticut,33,,5
+2022-07-30,Delaware,4,,1
+2022-07-30,District of Columbia,218,,13
+2022-07-30,Florida,373,,41
+2022-07-30,Georgia,351,,39
+2022-07-30,Hawaii,10,,0
+2022-07-30,Idaho,4,,1
+2022-07-30,Illinois,419,,34
+2022-07-30,Indiana,49,,12
+2022-07-30,Iowa,10,,1
+2022-07-30,Kansas,1,,0
+2022-07-30,Kentucky,8,,2
+2022-07-30,Louisiana,38,,10
+2022-07-30,Maine,1,,0
+2022-07-30,Maryland,117,,16
+2022-07-30,Massachusetts,116,,3
+2022-07-30,Michigan,28,,0
+2022-07-30,Minnesota,33,,5
+2022-07-30,Mississippi,3,,2
+2022-07-30,Missouri,9,,3
+2022-07-30,Nebraska,10,,2
+2022-07-30,Nevada,14,,3
+2022-07-30,New Hampshire,9,,2
+2022-07-30,New Jersey,118,,16
+2022-07-30,New Mexico,7,,0
+2022-07-30,New York,1345,,117
+2022-07-30,North Carolina,53,,38
+2022-07-30,North Dakota,1,,0
+2022-07-30,Ohio,23,,6
+2022-07-30,Oklahoma,9,,1
+2022-07-30,Oregon,58,,7
+2022-07-30,Pennsylvania,125,,11
+2022-07-30,Puerto Rico,14,,4
+2022-07-30,Rhode Island,19,,3
+2022-07-30,South Carolina,16,,3
+2022-07-30,South Dakota,1,,0
+2022-07-30,Tennessee,26,,5
+2022-07-30,Texas,351,,64
+2022-07-30,Utah,27,,5
+2022-07-30,Virginia,76,,37
+2022-07-30,Washington,120,,17
+2022-07-30,West Virginia,3,,1
+2022-07-30,Wisconsin,13,,0
+2022-07-31,Alabama,16,,0
+2022-07-31,Alaska,1,,0
+2022-07-31,Arizona,50,,0
+2022-07-31,Arkansas,4,,0
+2022-07-31,California,799,,0
+2022-07-31,Colorado,53,,0
+2022-07-31,Connecticut,33,,0
+2022-07-31,Delaware,4,,0
+2022-07-31,District of Columbia,218,,0
+2022-07-31,Florida,373,,0
+2022-07-31,Georgia,351,,0
+2022-07-31,Hawaii,10,,0
+2022-07-31,Idaho,4,,0
+2022-07-31,Illinois,419,,0
+2022-07-31,Indiana,49,,0
+2022-07-31,Iowa,10,,0
+2022-07-31,Kansas,1,,0
+2022-07-31,Kentucky,8,,0
+2022-07-31,Louisiana,38,,0
+2022-07-31,Maine,1,,0
+2022-07-31,Maryland,117,,0
+2022-07-31,Massachusetts,116,,0
+2022-07-31,Michigan,28,,0
+2022-07-31,Minnesota,33,,0
+2022-07-31,Mississippi,3,,0
+2022-07-31,Missouri,9,,0
+2022-07-31,Nebraska,10,,0
+2022-07-31,Nevada,14,,0
+2022-07-31,New Hampshire,9,,0
+2022-07-31,New Jersey,118,,0
+2022-07-31,New Mexico,7,,0
+2022-07-31,New York,1345,,0
+2022-07-31,North Carolina,53,,0
+2022-07-31,North Dakota,1,,0
+2022-07-31,Ohio,23,,0
+2022-07-31,Oklahoma,9,,0
+2022-07-31,Oregon,58,,0
+2022-07-31,Pennsylvania,125,,0
+2022-07-31,Puerto Rico,14,,0
+2022-07-31,Rhode Island,19,,0
+2022-07-31,South Carolina,16,,0
+2022-07-31,South Dakota,1,,0
+2022-07-31,Tennessee,26,,0
+2022-07-31,Texas,351,,0
+2022-07-31,Utah,27,,0
+2022-07-31,Virginia,76,,0
+2022-07-31,Washington,120,,0
+2022-07-31,West Virginia,3,,0
+2022-07-31,Wisconsin,13,,0
+2022-08-01,Alabama,16,,0
+2022-08-01,Alaska,1,,0
+2022-08-01,Arizona,50,,0
+2022-08-01,Arkansas,4,,0
+2022-08-01,California,799,,0
+2022-08-01,Colorado,53,,0
+2022-08-01,Connecticut,33,,0
+2022-08-01,Delaware,4,,0
+2022-08-01,District of Columbia,218,,0
+2022-08-01,Florida,373,,0
+2022-08-01,Georgia,351,,0
+2022-08-01,Hawaii,10,,0
+2022-08-01,Idaho,4,,0
+2022-08-01,Illinois,419,,0
+2022-08-01,Indiana,49,,0
+2022-08-01,Iowa,10,,0
+2022-08-01,Kansas,1,,0
+2022-08-01,Kentucky,8,,0
+2022-08-01,Louisiana,38,,0
+2022-08-01,Maine,1,,0
+2022-08-01,Maryland,117,,0
+2022-08-01,Massachusetts,116,,0
+2022-08-01,Michigan,28,,0
+2022-08-01,Minnesota,33,,0
+2022-08-01,Mississippi,3,,0
+2022-08-01,Missouri,9,,0
+2022-08-01,Nebraska,10,,0
+2022-08-01,Nevada,14,,0
+2022-08-01,New Hampshire,9,,0
+2022-08-01,New Jersey,118,,0
+2022-08-01,New Mexico,7,,0
+2022-08-01,New York,1345,,0
+2022-08-01,North Carolina,53,,0
+2022-08-01,North Dakota,1,,0
+2022-08-01,Ohio,23,,0
+2022-08-01,Oklahoma,9,,0
+2022-08-01,Oregon,58,,0
+2022-08-01,Pennsylvania,125,,0
+2022-08-01,Puerto Rico,14,,0
+2022-08-01,Rhode Island,19,,0
+2022-08-01,South Carolina,16,,0
+2022-08-01,South Dakota,1,,0
+2022-08-01,Tennessee,26,,0
+2022-08-01,Texas,351,,0
+2022-08-01,Utah,27,,0
+2022-08-01,Virginia,76,,0
+2022-08-01,Washington,120,,0
+2022-08-01,West Virginia,3,,0
+2022-08-01,Wisconsin,13,,0
+2022-08-02,Alabama,19,,3
+2022-08-02,Alaska,1,,0
+2022-08-02,Arizona,80,,30
+2022-08-02,Arkansas,5,,1
+2022-08-02,California,826,,27
+2022-08-02,Colorado,53,,0
+2022-08-02,Connecticut,39,,6
+2022-08-02,Delaware,5,,1
+2022-08-02,District of Columbia,248,,30
+2022-08-02,Florida,480,,107
+2022-08-02,Georgia,455,,104
+2022-08-02,Hawaii,10,,0
+2022-08-02,Idaho,5,,1
+2022-08-02,Illinois,533,,114
+2022-08-02,Indiana,58,,9
+2022-08-02,Iowa,10,,0
+2022-08-02,Kansas,1,,0
+2022-08-02,Kentucky,8,,0
+2022-08-02,Louisiana,56,,18
+2022-08-02,Maine,1,,0
+2022-08-02,Maryland,149,,32
+2022-08-02,Massachusetts,134,,18
+2022-08-02,Michigan,34,,6
+2022-08-02,Minnesota,38,,5
+2022-08-02,Mississippi,4,,1
+2022-08-02,Missouri,10,,1
+2022-08-02,Nebraska,10,,0
+2022-08-02,Nevada,25,,11
+2022-08-02,New Hampshire,13,,4
+2022-08-02,New Jersey,155,,37
+2022-08-02,New Mexico,10,,3
+2022-08-02,New York,1617,,272
+2022-08-02,North Carolina,69,,16
+2022-08-02,North Dakota,1,,0
+2022-08-02,Ohio,30,,7
+2022-08-02,Oklahoma,10,,1
+2022-08-02,Oregon,74,,16
+2022-08-02,Pennsylvania,170,,45
+2022-08-02,Puerto Rico,19,,5
+2022-08-02,Rhode Island,24,,5
+2022-08-02,South Carolina,23,,7
+2022-08-02,South Dakota,1,,0
+2022-08-02,Tennessee,37,,11
+2022-08-02,Texas,485,,134
+2022-08-02,Utah,37,,10
+2022-08-02,Vermont,1,,
+2022-08-02,Virginia,105,,29
+2022-08-02,Washington,123,,3
+2022-08-02,West Virginia,3,,0
+2022-08-02,Wisconsin,19,,6
+2022-08-02,Non-US Resident,3,,0
+2022-08-03,Alabama,19,,0
+2022-08-03,Alaska,1,,0
+2022-08-03,Arizona,85,,5
+2022-08-03,Arkansas,5,,0
+2022-08-03,California,826,,0
+2022-08-03,Colorado,53,,0
+2022-08-03,Connecticut,39,,0
+2022-08-03,Delaware,5,,0
+2022-08-03,District of Columbia,257,,9
+2022-08-03,Florida,525,,45
+2022-08-03,Georgia,504,,49
+2022-08-03,Hawaii,10,,0
+2022-08-03,Idaho,5,,0
+2022-08-03,Illinois,547,,14
+2022-08-03,Indiana,62,,4
+2022-08-03,Iowa,11,,1
+2022-08-03,Kansas,1,,0
+2022-08-03,Kentucky,8,,0
+2022-08-03,Louisiana,58,,2
+2022-08-03,Maine,2,,1
+2022-08-03,Maryland,157,,8
+2022-08-03,Massachusetts,134,,0
+2022-08-03,Michigan,56,,22
+2022-08-03,Minnesota,39,,1
+2022-08-03,Mississippi,4,,0
+2022-08-03,Missouri,12,,2
+2022-08-03,Nebraska,10,,0
+2022-08-03,Nevada,26,,1
+2022-08-03,New Hampshire,14,,1
+2022-08-03,New Jersey,160,,5
+2022-08-03,New Mexico,10,,0
+2022-08-03,New York,1666,,49
+2022-08-03,North Carolina,72,,3
+2022-08-03,North Dakota,1,,0
+2022-08-03,Ohio,34,,4
+2022-08-03,Oklahoma,10,,0
+2022-08-03,Oregon,75,,1
+2022-08-03,Pennsylvania,173,,3
+2022-08-03,Puerto Rico,19,,0
+2022-08-03,Rhode Island,26,,2
+2022-08-03,South Carolina,23,,0
+2022-08-03,South Dakota,1,,0
+2022-08-03,Tennessee,39,,2
+2022-08-03,Texas,527,,42
+2022-08-03,Utah,41,,4
+2022-08-03,Vermont,1,,0
+2022-08-03,Virginia,105,,0
+2022-08-03,Washington,134,,11
+2022-08-03,West Virginia,3,,0
+2022-08-03,Wisconsin,19,,0
+2022-08-03,Non-US Resident,3,,0
+2022-08-04,Alabama,19,,0
+2022-08-04,Alaska,1,,0
+2022-08-04,Arizona,85,,0
+2022-08-04,Arkansas,5,,0
+2022-08-04,California,826,,0
+2022-08-04,Colorado,53,,0
+2022-08-04,Connecticut,39,,0
+2022-08-04,Delaware,5,,0
+2022-08-04,District of Columbia,257,,0
+2022-08-04,Florida,525,,0
+2022-08-04,Georgia,504,,0
+2022-08-04,Hawaii,10,,0
+2022-08-04,Idaho,5,,0
+2022-08-04,Illinois,547,,0
+2022-08-04,Indiana,62,,0
+2022-08-04,Iowa,11,,0
+2022-08-04,Kansas,1,,0
+2022-08-04,Kentucky,8,,0
+2022-08-04,Louisiana,58,,0
+2022-08-04,Maine,2,,0
+2022-08-04,Maryland,157,,0
+2022-08-04,Massachusetts,134,,0
+2022-08-04,Michigan,56,,0
+2022-08-04,Minnesota,39,,0
+2022-08-04,Mississippi,4,,0
+2022-08-04,Missouri,12,,0
+2022-08-04,Nebraska,10,,0
+2022-08-04,Nevada,26,,0
+2022-08-04,New Hampshire,14,,0
+2022-08-04,New Jersey,160,,0
+2022-08-04,New Mexico,10,,0
+2022-08-04,New York,1666,,0
+2022-08-04,North Carolina,72,,0
+2022-08-04,North Dakota,1,,0
+2022-08-04,Ohio,34,,0
+2022-08-04,Oklahoma,10,,0
+2022-08-04,Oregon,75,,0
+2022-08-04,Pennsylvania,173,,0
+2022-08-04,Puerto Rico,19,,0
+2022-08-04,Rhode Island,26,,0
+2022-08-04,South Carolina,23,,0
+2022-08-04,South Dakota,1,,0
+2022-08-04,Tennessee,39,,0
+2022-08-04,Texas,527,,0
+2022-08-04,Utah,41,,0
+2022-08-04,Vermont,1,,0
+2022-08-04,Virginia,105,,0
+2022-08-04,Washington,134,,0
+2022-08-04,West Virginia,3,,0
+2022-08-04,Wisconsin,19,,0
+2022-08-04,Non-US Resident,3,,0
+2022-08-05,Alabama,19,,0
+2022-08-05,Alaska,1,,0
+2022-08-05,Arizona,85,,0
+2022-08-05,Arkansas,5,,0
+2022-08-05,California,826,,0
+2022-08-05,Colorado,53,,0
+2022-08-05,Connecticut,39,,0
+2022-08-05,Delaware,5,,0
+2022-08-05,District of Columbia,257,,0
+2022-08-05,Florida,525,,0
+2022-08-05,Georgia,504,,0
+2022-08-05,Hawaii,10,,0
+2022-08-05,Idaho,5,,0
+2022-08-05,Illinois,547,,0
+2022-08-05,Indiana,62,,0
+2022-08-05,Iowa,11,,0
+2022-08-05,Kansas,1,,0
+2022-08-05,Kentucky,8,,0
+2022-08-05,Louisiana,58,,0
+2022-08-05,Maine,2,,0
+2022-08-05,Maryland,157,,0
+2022-08-05,Massachusetts,134,,0
+2022-08-05,Michigan,56,,0
+2022-08-05,Minnesota,39,,0
+2022-08-05,Mississippi,4,,0
+2022-08-05,Missouri,12,,0
+2022-08-05,Nebraska,10,,0
+2022-08-05,Nevada,26,,0
+2022-08-05,New Hampshire,14,,0
+2022-08-05,New Jersey,160,,0
+2022-08-05,New Mexico,10,,0
+2022-08-05,New York,1666,,0
+2022-08-05,North Carolina,72,,0
+2022-08-05,North Dakota,1,,0
+2022-08-05,Ohio,34,,0
+2022-08-05,Oklahoma,10,,0
+2022-08-05,Oregon,75,,0
+2022-08-05,Pennsylvania,173,,0
+2022-08-05,Puerto Rico,19,,0
+2022-08-05,Rhode Island,26,,0
+2022-08-05,South Carolina,23,,0
+2022-08-05,South Dakota,1,,0
+2022-08-05,Tennessee,39,,0
+2022-08-05,Texas,527,,0
+2022-08-05,Utah,41,,0
+2022-08-05,Vermont,1,,0
+2022-08-05,Virginia,105,,0
+2022-08-05,Washington,134,,0
+2022-08-05,West Virginia,3,,0
+2022-08-05,Wisconsin,19,,0
+2022-08-05,Non-US Resident,3,,0
+2022-08-06,Alabama,19,,0
+2022-08-06,Alaska,1,,0
+2022-08-06,Arizona,85,,0
+2022-08-06,Arkansas,5,,0
+2022-08-06,California,826,,0
+2022-08-06,Colorado,53,,0
+2022-08-06,Connecticut,39,,0
+2022-08-06,Delaware,5,,0
+2022-08-06,District of Columbia,257,,0
+2022-08-06,Florida,525,,0
+2022-08-06,Georgia,504,,0
+2022-08-06,Hawaii,10,,0
+2022-08-06,Idaho,5,,0
+2022-08-06,Illinois,547,,0
+2022-08-06,Indiana,62,,0
+2022-08-06,Iowa,11,,0
+2022-08-06,Kansas,1,,0
+2022-08-06,Kentucky,8,,0
+2022-08-06,Louisiana,58,,0
+2022-08-06,Maine,2,,0
+2022-08-06,Maryland,157,,0
+2022-08-06,Massachusetts,134,,0
+2022-08-06,Michigan,56,,0
+2022-08-06,Minnesota,39,,0
+2022-08-06,Mississippi,4,,0
+2022-08-06,Missouri,12,,0
+2022-08-06,Nebraska,10,,0
+2022-08-06,Nevada,26,,0
+2022-08-06,New Hampshire,14,,0
+2022-08-06,New Jersey,160,,0
+2022-08-06,New Mexico,10,,0
+2022-08-06,New York,1666,,0
+2022-08-06,North Carolina,72,,0
+2022-08-06,North Dakota,1,,0
+2022-08-06,Ohio,34,,0
+2022-08-06,Oklahoma,10,,0
+2022-08-06,Oregon,75,,0
+2022-08-06,Pennsylvania,173,,0
+2022-08-06,Puerto Rico,19,,0
+2022-08-06,Rhode Island,26,,0
+2022-08-06,South Carolina,23,,0
+2022-08-06,South Dakota,1,,0
+2022-08-06,Tennessee,39,,0
+2022-08-06,Texas,527,,0
+2022-08-06,Utah,41,,0
+2022-08-06,Vermont,1,,0
+2022-08-06,Virginia,105,,0
+2022-08-06,Washington,134,,0
+2022-08-06,West Virginia,3,,0
+2022-08-06,Wisconsin,19,,0
+2022-08-06,Non-US Resident,3,,0
+2022-08-07,Alabama,19,,0
+2022-08-07,Alaska,1,,0
+2022-08-07,Arizona,85,,0
+2022-08-07,Arkansas,5,,0
+2022-08-07,California,826,,0
+2022-08-07,Colorado,53,,0
+2022-08-07,Connecticut,39,,0
+2022-08-07,Delaware,5,,0
+2022-08-07,District of Columbia,257,,0
+2022-08-07,Florida,525,,0
+2022-08-07,Georgia,504,,0
+2022-08-07,Hawaii,10,,0
+2022-08-07,Idaho,5,,0
+2022-08-07,Illinois,547,,0
+2022-08-07,Indiana,62,,0
+2022-08-07,Iowa,11,,0
+2022-08-07,Kansas,1,,0
+2022-08-07,Kentucky,8,,0
+2022-08-07,Louisiana,58,,0
+2022-08-07,Maine,2,,0
+2022-08-07,Maryland,157,,0
+2022-08-07,Massachusetts,134,,0
+2022-08-07,Michigan,56,,0
+2022-08-07,Minnesota,39,,0
+2022-08-07,Mississippi,4,,0
+2022-08-07,Missouri,12,,0
+2022-08-07,Nebraska,10,,0
+2022-08-07,Nevada,26,,0
+2022-08-07,New Hampshire,14,,0
+2022-08-07,New Jersey,160,,0
+2022-08-07,New Mexico,10,,0
+2022-08-07,New York,1666,,0
+2022-08-07,North Carolina,72,,0
+2022-08-07,North Dakota,1,,0
+2022-08-07,Ohio,34,,0
+2022-08-07,Oklahoma,10,,0
+2022-08-07,Oregon,75,,0
+2022-08-07,Pennsylvania,173,,0
+2022-08-07,Puerto Rico,19,,0
+2022-08-07,Rhode Island,26,,0
+2022-08-07,South Carolina,23,,0
+2022-08-07,South Dakota,1,,0
+2022-08-07,Tennessee,39,,0
+2022-08-07,Texas,527,,0
+2022-08-07,Utah,41,,0
+2022-08-07,Vermont,1,,0
+2022-08-07,Virginia,105,,0
+2022-08-07,Washington,134,,0
+2022-08-07,West Virginia,3,,0
+2022-08-07,Wisconsin,19,,0
+2022-08-07,Non-US Resident,3,,0
+2022-08-08,Alabama,19,,0
+2022-08-08,Alaska,1,,0
+2022-08-08,Arizona,85,,0
+2022-08-08,Arkansas,5,,0
+2022-08-08,California,826,,0
+2022-08-08,Colorado,53,,0
+2022-08-08,Connecticut,39,,0
+2022-08-08,Delaware,5,,0
+2022-08-08,District of Columbia,257,,0
+2022-08-08,Florida,525,,0
+2022-08-08,Georgia,504,,0
+2022-08-08,Hawaii,10,,0
+2022-08-08,Idaho,5,,0
+2022-08-08,Illinois,547,,0
+2022-08-08,Indiana,62,,0
+2022-08-08,Iowa,11,,0
+2022-08-08,Kansas,1,,0
+2022-08-08,Kentucky,8,,0
+2022-08-08,Louisiana,58,,0
+2022-08-08,Maine,2,,0
+2022-08-08,Maryland,157,,0
+2022-08-08,Massachusetts,134,,0
+2022-08-08,Michigan,56,,0
+2022-08-08,Minnesota,39,,0
+2022-08-08,Mississippi,4,,0
+2022-08-08,Missouri,12,,0
+2022-08-08,Nebraska,10,,0
+2022-08-08,Nevada,26,,0
+2022-08-08,New Hampshire,14,,0
+2022-08-08,New Jersey,160,,0
+2022-08-08,New Mexico,10,,0
+2022-08-08,New York,1666,,0
+2022-08-08,North Carolina,72,,0
+2022-08-08,North Dakota,1,,0
+2022-08-08,Ohio,34,,0
+2022-08-08,Oklahoma,10,,0
+2022-08-08,Oregon,75,,0
+2022-08-08,Pennsylvania,173,,0
+2022-08-08,Puerto Rico,19,,0
+2022-08-08,Rhode Island,26,,0
+2022-08-08,South Carolina,23,,0
+2022-08-08,South Dakota,1,,0
+2022-08-08,Tennessee,39,,0
+2022-08-08,Texas,527,,0
+2022-08-08,Utah,41,,0
+2022-08-08,Vermont,1,,0
+2022-08-08,Virginia,105,,0
+2022-08-08,Washington,134,,0
+2022-08-08,West Virginia,3,,0
+2022-08-08,Wisconsin,19,,0
+2022-08-08,Non-US Resident,3,,0
+2022-08-09,Alabama,19,,0
+2022-08-09,Alaska,1,,0
+2022-08-09,Arizona,85,,0
+2022-08-09,Arkansas,5,,0
+2022-08-09,California,826,,0
+2022-08-09,Colorado,53,,0
+2022-08-09,Connecticut,39,,0
+2022-08-09,Delaware,5,,0
+2022-08-09,District of Columbia,257,,0
+2022-08-09,Florida,525,,0
+2022-08-09,Georgia,504,,0
+2022-08-09,Hawaii,10,,0
+2022-08-09,Idaho,5,,0
+2022-08-09,Illinois,547,,0
+2022-08-09,Indiana,62,,0
+2022-08-09,Iowa,11,,0
+2022-08-09,Kansas,1,,0
+2022-08-09,Kentucky,8,,0
+2022-08-09,Louisiana,58,,0
+2022-08-09,Maine,2,,0
+2022-08-09,Maryland,157,,0
+2022-08-09,Massachusetts,134,,0
+2022-08-09,Michigan,56,,0
+2022-08-09,Minnesota,39,,0
+2022-08-09,Mississippi,4,,0
+2022-08-09,Missouri,12,,0
+2022-08-09,Nebraska,10,,0
+2022-08-09,Nevada,26,,0
+2022-08-09,New Hampshire,14,,0
+2022-08-09,New Jersey,160,,0
+2022-08-09,New Mexico,10,,0
+2022-08-09,New York,1666,,0
+2022-08-09,North Carolina,72,,0
+2022-08-09,North Dakota,1,,0
+2022-08-09,Ohio,34,,0
+2022-08-09,Oklahoma,10,,0
+2022-08-09,Oregon,75,,0
+2022-08-09,Pennsylvania,173,,0
+2022-08-09,Puerto Rico,19,,0
+2022-08-09,Rhode Island,26,,0
+2022-08-09,South Carolina,23,,0
+2022-08-09,South Dakota,1,,0
+2022-08-09,Tennessee,39,,0
+2022-08-09,Texas,527,,0
+2022-08-09,Utah,41,,0
+2022-08-09,Vermont,1,,0
+2022-08-09,Virginia,105,,0
+2022-08-09,Washington,134,,0
+2022-08-09,West Virginia,3,,0
+2022-08-09,Wisconsin,19,,0
+2022-08-09,Non-US Resident,3,,0
+2022-08-10,Alabama,19,,0
+2022-08-10,Alaska,1,,0
+2022-08-10,Arizona,85,,0
+2022-08-10,Arkansas,5,,0
+2022-08-10,California,826,,0
+2022-08-10,Colorado,53,,0
+2022-08-10,Connecticut,39,,0
+2022-08-10,Delaware,5,,0
+2022-08-10,District of Columbia,257,,0
+2022-08-10,Florida,525,,0
+2022-08-10,Georgia,504,,0
+2022-08-10,Hawaii,10,,0
+2022-08-10,Idaho,5,,0
+2022-08-10,Illinois,547,,0
+2022-08-10,Indiana,62,,0
+2022-08-10,Iowa,11,,0
+2022-08-10,Kansas,1,,0
+2022-08-10,Kentucky,8,,0
+2022-08-10,Louisiana,58,,0
+2022-08-10,Maine,2,,0
+2022-08-10,Maryland,157,,0
+2022-08-10,Massachusetts,134,,0
+2022-08-10,Michigan,56,,0
+2022-08-10,Minnesota,39,,0
+2022-08-10,Mississippi,4,,0
+2022-08-10,Missouri,12,,0
+2022-08-10,Nebraska,10,,0
+2022-08-10,Nevada,26,,0
+2022-08-10,New Hampshire,14,,0
+2022-08-10,New Jersey,160,,0
+2022-08-10,New Mexico,10,,0
+2022-08-10,New York,1666,,0
+2022-08-10,North Carolina,72,,0
+2022-08-10,North Dakota,1,,0
+2022-08-10,Ohio,34,,0
+2022-08-10,Oklahoma,10,,0
+2022-08-10,Oregon,75,,0
+2022-08-10,Pennsylvania,173,,0
+2022-08-10,Puerto Rico,19,,0
+2022-08-10,Rhode Island,26,,0
+2022-08-10,South Carolina,23,,0
+2022-08-10,South Dakota,1,,0
+2022-08-10,Tennessee,39,,0
+2022-08-10,Texas,527,,0
+2022-08-10,Utah,41,,0
+2022-08-10,Vermont,1,,0
+2022-08-10,Virginia,105,,0
+2022-08-10,Washington,134,,0
+2022-08-10,West Virginia,3,,0
+2022-08-10,Wisconsin,19,,0
+2022-08-10,Non-US Resident,3,,0
+2022-08-11,Alabama,19,,0
+2022-08-11,Alaska,1,,0
+2022-08-11,Arizona,85,,0
+2022-08-11,Arkansas,5,,0
+2022-08-11,California,826,,0
+2022-08-11,Colorado,53,,0
+2022-08-11,Connecticut,39,,0
+2022-08-11,Delaware,5,,0
+2022-08-11,District of Columbia,257,,0
+2022-08-11,Florida,525,,0
+2022-08-11,Georgia,504,,0
+2022-08-11,Hawaii,10,,0
+2022-08-11,Idaho,5,,0
+2022-08-11,Illinois,547,,0
+2022-08-11,Indiana,62,,0
+2022-08-11,Iowa,11,,0
+2022-08-11,Kansas,1,,0
+2022-08-11,Kentucky,8,,0
+2022-08-11,Louisiana,58,,0
+2022-08-11,Maine,2,,0
+2022-08-11,Maryland,157,,0
+2022-08-11,Massachusetts,134,,0
+2022-08-11,Michigan,56,,0
+2022-08-11,Minnesota,39,,0
+2022-08-11,Mississippi,4,,0
+2022-08-11,Missouri,12,,0
+2022-08-11,Nebraska,10,,0
+2022-08-11,Nevada,26,,0
+2022-08-11,New Hampshire,14,,0
+2022-08-11,New Jersey,160,,0
+2022-08-11,New Mexico,10,,0
+2022-08-11,New York,1666,,0
+2022-08-11,North Carolina,72,,0
+2022-08-11,North Dakota,1,,0
+2022-08-11,Ohio,34,,0
+2022-08-11,Oklahoma,10,,0
+2022-08-11,Oregon,75,,0
+2022-08-11,Pennsylvania,173,,0
+2022-08-11,Puerto Rico,19,,0
+2022-08-11,Rhode Island,26,,0
+2022-08-11,South Carolina,23,,0
+2022-08-11,South Dakota,1,,0
+2022-08-11,Tennessee,39,,0
+2022-08-11,Texas,527,,0
+2022-08-11,Utah,41,,0
+2022-08-11,Vermont,1,,0
+2022-08-11,Virginia,105,,0
+2022-08-11,Washington,134,,0
+2022-08-11,West Virginia,3,,0
+2022-08-11,Wisconsin,19,,0
+2022-08-11,Non-US Resident,3,,0
+2022-08-12,Alabama,24,Data as of 10 Aug 2022 2:00 PM EDT,5
+2022-08-12,Alaska,2,Data as of 10 Aug 2022 2:00 PM EDT,1
+2022-08-12,Arizona,149,Data as of 10 Aug 2022 2:00 PM EDT,64
+2022-08-12,Arkansas,12,Data as of 10 Aug 2022 2:00 PM EDT,7
+2022-08-12,California,1892,Data as of 10 Aug 2022 2:00 PM EDT,1066
+2022-08-12,Colorado,111,Data as of 10 Aug 2022 2:00 PM EDT,58
+2022-08-12,Connecticut,54,Data as of 10 Aug 2022 2:00 PM EDT,15
+2022-08-12,Delaware,8,Data as of 10 Aug 2022 2:00 PM EDT,3
+2022-08-12,District of Columbia,319,Data as of 10 Aug 2022 2:00 PM EDT,62
+2022-08-12,Florida,1018,Data as of 10 Aug 2022 2:00 PM EDT,493
+2022-08-12,Georgia,775,Data as of 10 Aug 2022 2:00 PM EDT,271
+2022-08-12,Hawaii,11,Data as of 10 Aug 2022 2:00 PM EDT,1
+2022-08-12,Idaho,8,Data as of 10 Aug 2022 2:00 PM EDT,3
+2022-08-12,Illinois,717,Data as of 10 Aug 2022 2:00 PM EDT,170
+2022-08-12,Indiana,77,Data as of 10 Aug 2022 2:00 PM EDT,15
+2022-08-12,Iowa,13,Data as of 10 Aug 2022 2:00 PM EDT,2
+2022-08-12,Kansas,2,Data as of 10 Aug 2022 2:00 PM EDT,1
+2022-08-12,Kentucky,10,Data as of 10 Aug 2022 2:00 PM EDT,2
+2022-08-12,Louisiana,92,Data as of 10 Aug 2022 2:00 PM EDT,34
+2022-08-12,Maine,3,Data as of 10 Aug 2022 2:00 PM EDT,1
+2022-08-12,Maryland,236,Data as of 10 Aug 2022 2:00 PM EDT,79
+2022-08-12,Massachusetts,174,Data as of 10 Aug 2022 2:00 PM EDT,40
+2022-08-12,Michigan,77,Data as of 10 Aug 2022 2:00 PM EDT,21
+2022-08-12,Minnesota,58,Data as of 10 Aug 2022 2:00 PM EDT,19
+2022-08-12,Mississippi,8,Data as of 10 Aug 2022 2:00 PM EDT,4
+2022-08-12,Missouri,18,Data as of 10 Aug 2022 2:00 PM EDT,6
+2022-08-12,Montana,2,Data as of 10 Aug 2022 2:00 PM EDT,
+2022-08-12,Nebraska,14,Data as of 10 Aug 2022 2:00 PM EDT,4
+2022-08-12,Nevada,56,Data as of 10 Aug 2022 2:00 PM EDT,30
+2022-08-12,New Hampshire,15,Data as of 10 Aug 2022 2:00 PM EDT,1
+2022-08-12,New Jersey,277,Data as of 10 Aug 2022 2:00 PM EDT,117
+2022-08-12,New Mexico,13,Data as of 10 Aug 2022 2:00 PM EDT,3
+2022-08-12,New York,2132,Data as of 10 Aug 2022 2:00 PM EDT,466
+2022-08-12,Non-US Resident,3,Data as of 10 Aug 2022 2:00 PM EDT,0
+2022-08-12,North Carolina,122,Data as of 10 Aug 2022 2:00 PM EDT,50
+2022-08-12,North Dakota,2,Data as of 10 Aug 2022 2:00 PM EDT,1
+2022-08-12,Ohio,75,Data as of 10 Aug 2022 2:00 PM EDT,41
+2022-08-12,Oklahoma,12,Data as of 10 Aug 2022 2:00 PM EDT,2
+2022-08-12,Oregon,93,Data as of 10 Aug 2022 2:00 PM EDT,18
+2022-08-12,Pennsylvania,268,Data as of 10 Aug 2022 2:00 PM EDT,95
+2022-08-12,Puerto Rico,32,Data as of 10 Aug 2022 2:00 PM EDT,13
+2022-08-12,Rhode Island,32,Data as of 10 Aug 2022 2:00 PM EDT,6
+2022-08-12,South Carolina,44,Data as of 10 Aug 2022 2:00 PM EDT,21
+2022-08-12,South Dakota,2,Data as of 10 Aug 2022 2:00 PM EDT,1
+2022-08-12,Tennessee,62,Data as of 10 Aug 2022 2:00 PM EDT,23
+2022-08-12,Texas,780,Data as of 10 Aug 2022 2:00 PM EDT,253
+2022-08-12,Total,10392,Data as of 10 Aug 2022 2:00 PM EDT,
+2022-08-12,Utah,57,Data as of 10 Aug 2022 2:00 PM EDT,16
+2022-08-12,Vermont,1,Data as of 10 Aug 2022 2:00 PM EDT,0
+2022-08-12,Virginia,175,Data as of 10 Aug 2022 2:00 PM EDT,70
+2022-08-12,Washington,220,Data as of 10 Aug 2022 2:00 PM EDT,86
+2022-08-12,West Virginia,4,Data as of 10 Aug 2022 2:00 PM EDT,1
+2022-08-12,Wisconsin,31,Data as of 10 Aug 2022 2:00 PM EDT,12
+2022-08-12,Wyoming,0,Data as of 10 Aug 2022 2:00 PM EDT,
