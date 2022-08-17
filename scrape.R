@@ -51,3 +51,4 @@ ses <- rvest::session("https://aspr.hhs.gov/SNS/Pages/JYNNEOS-Distribution.aspx"
 dat_jynneos <- rvest::html_table(ses)[[1]] 
 
 data.table::fwrite(dat_jynneos, here::here("data", "jynneos", paste0(ping_time,".csv")))
+
