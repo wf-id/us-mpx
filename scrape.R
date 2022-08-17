@@ -42,3 +42,12 @@ data.table::fwrite(o, here::here("data", "oa-incidence",paste0(ping_time,".csv")
 o$CaseRollNBR <- data.table::frollmean(x = o$CaseCNT, 7)
 
 data.table::fwrite(o, here::here("output", "us-incidence.csv"))
+
+
+# jynneos-distribution ------------------------------------------------------------------------
+
+ses <- rvest::session("https://aspr.hhs.gov/SNS/Pages/JYNNEOS-Distribution.aspx")
+
+dat_jynneos <- rvest::html_table(ses)[[1]] 
+
+data.table::fwrite(dat_jynneos, here::here("data", "jynneos", paste0(ping_time,".csv")))
