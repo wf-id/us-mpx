@@ -7,9 +7,11 @@ library(data.table)
 
 h <- here::here
 
-county_details <- fs::dir_ls(h("data"), glob = "*.json")
+get_data <- function(type = "json"){
 
-pull_time <- lubridate::as_datetime(str_remove(basename(county_details), "\\.json"))
+county_details <- fs::dir_ls(h("data"), glob = sprintf("*.%s", type))
+
+pull_time <- lubridate::as_datetime(tools::file_path_sans_ext(basename(county_details)))
 
 pull_date <- lubridate::date(pull_time)
 
@@ -20,14 +22,28 @@ dat_information <- data.frame(
 ) %>%
   group_by(pull_date) %>%
   filter(pull_time==max(pull_time))
+if(type == "json"){
+  dat_raw <- map(dat_information$county_details, jsonlite::read_json,simplifyVector = TRUE)
+  
+  names(dat_raw) <- dat_information[["pull_date"]]
+  
+  dat_dat <- map(dat_raw, "data", .id = "date")
+  
+  dat_dat <- rbindlist(dat_dat, idcol = "date", fill = TRUE)
+  
+} else {
+  dat_raw <-  map(dat_information$county_details, data.table::fread)
+  
+  names(dat_raw) <- dat_information[["pull_date"]]
+  
+  dat_dat <- dat_raw
+  
+  dat_dat <- rbindlist(dat_dat, idcol = "date", fill = TRUE)
+  dat_dat$State <- dat_dat$Location
+  
+}
 
-dat_raw <- map(dat_information$county_details, jsonlite::read_json,simplifyVector = TRUE)
 
-names(dat_raw) <- dat_information[["pull_date"]]
-
-dat_dat <- map(dat_raw, "data", .id = "date")
-
-dat_dat <- rbindlist(dat_dat, idcol = "date", fill = TRUE)
 
 setDT(dat_dat)
 
@@ -35,15 +51,30 @@ dat_dat[,Cases := as.numeric(Cases)]
 
 dat_dat[,State := ifelse(is.na(State),Location, State )]
 
-dat_dat[order(date),CasesDailyNBR := Cases - dplyr::lag(Cases, 1), by = "State"]
 
-setnames(x = dat_dat, old = c("date","State", "Cases"), new = c("DateDT", "StateDSC", "CasesCumulativeCNT"))
 
-dat_dat[,Range := NULL]
+setnames(x = dat_dat, old = c("date","State", "Cases"), 
+         new = c("DateDT", "StateDSC", "CasesCumulativeCNT"))
 
-dat_dat[,Location := NULL]
+if("Range" %in% names(dat_dat)){
+  dat_dat$Range = NULL
+}
 
-dat_dat[,`Case Range` := NULL]
+dat_dat$Location = NULL
+
+dat_dat$`Case Range` = NULL
+
+return(dat_dat)
+}
+
+json_dat <- get_data(type = "json")
+csv_dat <-  get_data(type = "csv")
+
+dat_dat <- rbind(json_dat, csv_dat)
+
+dat_dat <- dat_dat[,tail(.SD, 1), by = c("DateDT","StateDSC")]
+
+dat_dat[order(DateDT),CasesDailyNBR := CasesCumulativeCNT - dplyr::lag(CasesCumulativeCNT, 1), by = "StateDSC"]
 
 data.table::fwrite(dat_dat, h("output", "mpx.csv"))
 
