@@ -1352,57 +1352,57 @@ DateDT,StateDSC,CasesCumulativeCNT,AsOf,CasesDailyNBR
 2022-08-16,West Virginia,4,Data as of 10 Aug 2022 2:00 PM EDT,0
 2022-08-16,Wisconsin,31,Data as of 10 Aug 2022 2:00 PM EDT,0
 2022-08-16,Wyoming,0,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Alabama,24,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Alaska,2,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Arizona,149,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Arkansas,12,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,California,1892,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Colorado,111,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Connecticut,54,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Delaware,8,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,District of Columbia,319,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Florida,1018,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Georgia,775,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Hawaii,11,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Idaho,8,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Illinois,717,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Indiana,77,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Iowa,13,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Kansas,2,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Kentucky,10,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Louisiana,92,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Maine,3,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Maryland,236,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Massachusetts,174,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Michigan,77,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Minnesota,58,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Mississippi,8,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Missouri,18,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Montana,2,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Nebraska,14,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Nevada,56,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,New Hampshire,15,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,New Jersey,277,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,New Mexico,13,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,New York,2132,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Non-US Resident,3,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,North Carolina,122,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,North Dakota,2,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Ohio,75,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Oklahoma,12,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Oregon,93,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Pennsylvania,268,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Puerto Rico,32,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Rhode Island,32,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,South Carolina,44,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,South Dakota,2,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Tennessee,62,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Texas,780,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Total,10392,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Utah,57,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Vermont,1,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Virginia,175,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Washington,220,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,West Virginia,4,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Wisconsin,31,Data as of 10 Aug 2022 2:00 PM EDT,0
-2022-08-17,Wyoming,0,Data as of 10 Aug 2022 2:00 PM EDT,0
+2022-08-17,Alabama,34,Data as of 17 Aug 2022 2:00 PM EDT,10
+2022-08-17,Alaska,2,Data as of 17 Aug 2022 2:00 PM EDT,0
+2022-08-17,Arizona,213,Data as of 17 Aug 2022 2:00 PM EDT,64
+2022-08-17,Arkansas,21,Data as of 17 Aug 2022 2:00 PM EDT,9
+2022-08-17,California,2356,Data as of 17 Aug 2022 2:00 PM EDT,464
+2022-08-17,Colorado,155,Data as of 17 Aug 2022 2:00 PM EDT,44
+2022-08-17,Connecticut,71,Data as of 17 Aug 2022 2:00 PM EDT,17
+2022-08-17,Delaware,10,Data as of 17 Aug 2022 2:00 PM EDT,2
+2022-08-17,District of Columbia,351,Data as of 17 Aug 2022 2:00 PM EDT,32
+2022-08-17,Florida,1346,Data as of 17 Aug 2022 2:00 PM EDT,328
+2022-08-17,Georgia,1033,Data as of 17 Aug 2022 2:00 PM EDT,258
+2022-08-17,Hawaii,13,Data as of 17 Aug 2022 2:00 PM EDT,2
+2022-08-17,Idaho,9,Data as of 17 Aug 2022 2:00 PM EDT,1
+2022-08-17,Illinois,875,Data as of 17 Aug 2022 2:00 PM EDT,158
+2022-08-17,Indiana,101,Data as of 17 Aug 2022 2:00 PM EDT,24
+2022-08-17,Iowa,15,Data as of 17 Aug 2022 2:00 PM EDT,2
+2022-08-17,Kansas,3,Data as of 17 Aug 2022 2:00 PM EDT,1
+2022-08-17,Kentucky,17,Data as of 17 Aug 2022 2:00 PM EDT,7
+2022-08-17,Louisiana,120,Data as of 17 Aug 2022 2:00 PM EDT,28
+2022-08-17,Maine,3,Data as of 17 Aug 2022 2:00 PM EDT,0
+2022-08-17,Maryland,349,Data as of 17 Aug 2022 2:00 PM EDT,113
+2022-08-17,Massachusetts,228,Data as of 17 Aug 2022 2:00 PM EDT,54
+2022-08-17,Michigan,99,Data as of 17 Aug 2022 2:00 PM EDT,22
+2022-08-17,Minnesota,78,Data as of 17 Aug 2022 2:00 PM EDT,20
+2022-08-17,Mississippi,17,Data as of 17 Aug 2022 2:00 PM EDT,9
+2022-08-17,Missouri,25,Data as of 17 Aug 2022 2:00 PM EDT,7
+2022-08-17,Montana,2,Data as of 17 Aug 2022 2:00 PM EDT,0
+2022-08-17,Nebraska,17,Data as of 17 Aug 2022 2:00 PM EDT,3
+2022-08-17,Nevada,109,Data as of 17 Aug 2022 2:00 PM EDT,53
+2022-08-17,New Hampshire,15,Data as of 17 Aug 2022 2:00 PM EDT,0
+2022-08-17,New Jersey,367,Data as of 17 Aug 2022 2:00 PM EDT,90
+2022-08-17,New Mexico,16,Data as of 17 Aug 2022 2:00 PM EDT,3
+2022-08-17,New York,2675,Data as of 17 Aug 2022 2:00 PM EDT,543
+2022-08-17,Non-US Resident,3,Data as of 17 Aug 2022 2:00 PM EDT,0
+2022-08-17,North Carolina,188,Data as of 17 Aug 2022 2:00 PM EDT,66
+2022-08-17,North Dakota,3,Data as of 17 Aug 2022 2:00 PM EDT,1
+2022-08-17,Ohio,119,Data as of 17 Aug 2022 2:00 PM EDT,44
+2022-08-17,Oklahoma,15,Data as of 17 Aug 2022 2:00 PM EDT,3
+2022-08-17,Oregon,116,Data as of 17 Aug 2022 2:00 PM EDT,23
+2022-08-17,Pennsylvania,362,Data as of 17 Aug 2022 2:00 PM EDT,94
+2022-08-17,Puerto Rico,66,Data as of 17 Aug 2022 2:00 PM EDT,34
+2022-08-17,Rhode Island,33,Data as of 17 Aug 2022 2:00 PM EDT,1
+2022-08-17,South Carolina,73,Data as of 17 Aug 2022 2:00 PM EDT,29
+2022-08-17,South Dakota,2,Data as of 17 Aug 2022 2:00 PM EDT,0
+2022-08-17,Tennessee,99,Data as of 17 Aug 2022 2:00 PM EDT,37
+2022-08-17,Texas,1078,Data as of 17 Aug 2022 2:00 PM EDT,298
+2022-08-17,Total,13517,Data as of 17 Aug 2022 2:00 PM EDT,3125
+2022-08-17,Utah,73,Data as of 17 Aug 2022 2:00 PM EDT,16
+2022-08-17,Vermont,2,Data as of 17 Aug 2022 2:00 PM EDT,1
+2022-08-17,Virginia,189,Data as of 17 Aug 2022 2:00 PM EDT,14
+2022-08-17,Washington,303,Data as of 17 Aug 2022 2:00 PM EDT,83
+2022-08-17,West Virginia,5,Data as of 17 Aug 2022 2:00 PM EDT,1
+2022-08-17,Wisconsin,43,Data as of 17 Aug 2022 2:00 PM EDT,12
+2022-08-17,Wyoming,0,Data as of 17 Aug 2022 2:00 PM EDT,0
