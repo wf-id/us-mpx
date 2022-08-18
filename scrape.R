@@ -20,7 +20,7 @@ cacheOK = FALSE
 tmp <- tempfile()
 
 download.file(
-  "https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx-trend.json",
+  "https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx-trend_1.json",
   tmp,
   quiet = TRUE,
   cacheOK = FALSE
