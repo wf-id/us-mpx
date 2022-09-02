@@ -20,16 +20,16 @@ cacheOK = FALSE
 tmp <- tempfile()
 
 download.file(
-  "https://www.cdc.gov/poxvirus/monkeypox/modules/data-viz/mpx-trend_1.json",
+  "https://www.cdc.gov/wcms/vizdata/poxvirus/monkeypox/data/mpx_count_by_date.csv",
   tmp,
   quiet = TRUE,
   cacheOK = FALSE
 )
 
 
-o <- jsonlite::read_json(tmp,simplifyVector = TRUE)[["data"]]
+o <- data.table::fread(tmp)
 
-names(o) <- c("EpidateDT", "CaseCNT")
+names(o) <- c("EpidateDT", "CaseCNT", "UpdateDT")
 
 o$EpidateDT <- as.Date(o$EpidateDT, "%m/%d/%Y")
 
