@@ -29,7 +29,7 @@ download.file(
 
 o <- data.table::fread(tmp)
 
-names(o) <- c("EpidateDT", "CaseCNT", "UpdateDT")
+names(o) <- c("EpidateDT", "CaseCNT", "RollingNBR","CumulativeCNT","UpdateDT")
 
 o$EpidateDT <- as.Date(o$EpidateDT, "%m/%d/%Y")
 
