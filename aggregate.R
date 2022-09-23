@@ -70,7 +70,9 @@ return(dat_dat)
 json_dat <- get_data(type = "json")
 csv_dat <-  get_data(type = "csv")
 
-dat_dat <- rbind(json_dat, csv_dat)
+dat_dat <- rbind(csv_dat, json_dat, fill = TRUE)
+
+setorderv(dat_dat, c("DateDT","StateDSC"))
 
 dat_dat <- dat_dat[,tail(.SD, 1), by = c("DateDT","StateDSC")]
 
