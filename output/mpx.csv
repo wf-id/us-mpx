@@ -3242,3 +3242,57 @@ DateDT,StateDSC,CasesCumulativeCNT,AsOf,Case_Range,CasesDailyNBR
 2022-09-25,West Virginia,11,Data as of September 23 2022 at 2:00 pm EDT,11 to 50,0
 2022-09-25,Wisconsin,69,Data as of September 23 2022 at 2:00 pm EDT,51 to 100,0
 2022-09-25,Wyoming,2,Data as of September 23 2022 at 2:00 pm EDT,1 to 10,0
+2022-09-26,Alabama,115,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,3
+2022-09-26,Alaska,5,Data as of September 26 2022 at 2:00 pm EDT,1 to 10,0
+2022-09-26,Arizona,459,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,13
+2022-09-26,Arkansas,58,Data as of September 26 2022 at 2:00 pm EDT,51 to 100,2
+2022-09-26,California,4886,Data as of September 26 2022 at 2:00 pm EDT,>500,0
+2022-09-26,Colorado,263,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,0
+2022-09-26,Connecticut,124,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,0
+2022-09-26,Delaware,36,Data as of September 26 2022 at 2:00 pm EDT,11 to 50,0
+2022-09-26,District of Columbia,494,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,0
+2022-09-26,Florida,2455,Data as of September 26 2022 at 2:00 pm EDT,>500,11
+2022-09-26,Georgia,1764,Data as of September 26 2022 at 2:00 pm EDT,>500,28
+2022-09-26,Hawaii,29,Data as of September 26 2022 at 2:00 pm EDT,11 to 50,2
+2022-09-26,Idaho,12,Data as of September 26 2022 at 2:00 pm EDT,11 to 50,0
+2022-09-26,Illinois,1284,Data as of September 26 2022 at 2:00 pm EDT,>500,14
+2022-09-26,Indiana,227,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,4
+2022-09-26,Iowa,25,Data as of September 26 2022 at 2:00 pm EDT,11 to 50,0
+2022-09-26,Kansas,9,Data as of September 26 2022 at 2:00 pm EDT,1 to 10,0
+2022-09-26,Kentucky,53,Data as of September 26 2022 at 2:00 pm EDT,51 to 100,2
+2022-09-26,Louisiana,247,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,4
+2022-09-26,Maine,9,Data as of September 26 2022 at 2:00 pm EDT,1 to 10,0
+2022-09-26,Maryland,647,Data as of September 26 2022 at 2:00 pm EDT,>500,11
+2022-09-26,Massachusetts,390,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,9
+2022-09-26,Michigan,257,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,0
+2022-09-26,Minnesota,186,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,4
+2022-09-26,Mississippi,79,Data as of September 26 2022 at 2:00 pm EDT,51 to 100,6
+2022-09-26,Missouri,96,Data as of September 26 2022 at 2:00 pm EDT,51 to 100,12
+2022-09-26,Montana,5,Data as of September 26 2022 at 2:00 pm EDT,1 to 10,0
+2022-09-26,Nebraska,28,Data as of September 26 2022 at 2:00 pm EDT,11 to 50,0
+2022-09-26,Nevada,263,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,45
+2022-09-26,New Hampshire,29,Data as of September 26 2022 at 2:00 pm EDT,11 to 50,0
+2022-09-26,New Jersey,695,Data as of September 26 2022 at 2:00 pm EDT,>500,12
+2022-09-26,New Mexico,40,Data as of September 26 2022 at 2:00 pm EDT,11 to 50,0
+2022-09-26,New York,3881,Data as of September 26 2022 at 2:00 pm EDT,>500,39
+2022-09-26,Non-US Resident,3,Data as of September 26 2022 at 2:00 pm EDT,1 to 10,0
+2022-09-26,North Carolina,510,Data as of September 26 2022 at 2:00 pm EDT,>500,-2
+2022-09-26,North Dakota,6,Data as of September 26 2022 at 2:00 pm EDT,1 to 10,0
+2022-09-26,Ohio,273,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,10
+2022-09-26,Oklahoma,37,Data as of September 26 2022 at 2:00 pm EDT,11 to 50,1
+2022-09-26,Oregon,212,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,7
+2022-09-26,Pennsylvania,727,Data as of September 26 2022 at 2:00 pm EDT,>500,3
+2022-09-26,Puerto Rico,172,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,2
+2022-09-26,Rhode Island,73,Data as of September 26 2022 at 2:00 pm EDT,51 to 100,0
+2022-09-26,South Carolina,160,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,4
+2022-09-26,South Dakota,2,Data as of September 26 2022 at 2:00 pm EDT,1 to 10,0
+2022-09-26,Tennessee,281,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,8
+2022-09-26,Texas,2268,Data as of September 26 2022 at 2:00 pm EDT,>500,43
+2022-09-26,Total,25162,Data as of September 26 2022 at 2:00 pm EDT,"",316
+2022-09-26,Utah,150,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,1
+2022-09-26,Vermont,3,Data as of September 26 2022 at 2:00 pm EDT,1 to 10,0
+2022-09-26,Virginia,464,Data as of September 26 2022 at 2:00 pm EDT,101 to 500,12
+2022-09-26,Washington,583,Data as of September 26 2022 at 2:00 pm EDT,>500,0
+2022-09-26,West Virginia,11,Data as of September 26 2022 at 2:00 pm EDT,11 to 50,0
+2022-09-26,Wisconsin,75,Data as of September 26 2022 at 2:00 pm EDT,51 to 100,6
+2022-09-26,Wyoming,2,Data as of September 26 2022 at 2:00 pm EDT,1 to 10,0
