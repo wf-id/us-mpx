@@ -3620,3 +3620,57 @@ DateDT,StateDSC,CasesCumulativeCNT,AsOf,Case_Range,CasesDailyNBR
 2022-10-02,West Virginia,12,Data as of September 30 2022 at 2:00 pm EDT,11 to 50,0
 2022-10-02,Wisconsin,75,Data as of September 30 2022 at 2:00 pm EDT,51 to 100,0
 2022-10-02,Wyoming,4,Data as of September 30 2022 at 2:00 pm EDT,1 to 10,0
+2022-10-03,Alabama,130,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,15
+2022-10-03,Alaska,5,Data as of October 03 2022 at 2:00 pm EDT,1 to 10,0
+2022-10-03,Arizona,474,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,1
+2022-10-03,Arkansas,59,Data as of October 03 2022 at 2:00 pm EDT,51 to 100,1
+2022-10-03,California,5010,Data as of October 03 2022 at 2:00 pm EDT,>500,0
+2022-10-03,Colorado,278,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,0
+2022-10-03,Connecticut,126,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,0
+2022-10-03,Delaware,38,Data as of October 03 2022 at 2:00 pm EDT,11 to 50,0
+2022-10-03,District of Columbia,497,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,0
+2022-10-03,Florida,2543,Data as of October 03 2022 at 2:00 pm EDT,>500,14
+2022-10-03,Georgia,1815,Data as of October 03 2022 at 2:00 pm EDT,>500,30
+2022-10-03,Hawaii,34,Data as of October 03 2022 at 2:00 pm EDT,11 to 50,0
+2022-10-03,Idaho,13,Data as of October 03 2022 at 2:00 pm EDT,11 to 50,0
+2022-10-03,Illinois,1315,Data as of October 03 2022 at 2:00 pm EDT,>500,0
+2022-10-03,Indiana,234,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,0
+2022-10-03,Iowa,25,Data as of October 03 2022 at 2:00 pm EDT,11 to 50,0
+2022-10-03,Kansas,14,Data as of October 03 2022 at 2:00 pm EDT,11 to 50,0
+2022-10-03,Kentucky,56,Data as of October 03 2022 at 2:00 pm EDT,51 to 100,3
+2022-10-03,Louisiana,254,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,0
+2022-10-03,Maine,9,Data as of October 03 2022 at 2:00 pm EDT,1 to 10,0
+2022-10-03,Maryland,662,Data as of October 03 2022 at 2:00 pm EDT,>500,3
+2022-10-03,Massachusetts,402,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,6
+2022-10-03,Michigan,266,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,0
+2022-10-03,Minnesota,202,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,3
+2022-10-03,Mississippi,87,Data as of October 03 2022 at 2:00 pm EDT,51 to 100,0
+2022-10-03,Missouri,119,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,6
+2022-10-03,Montana,6,Data as of October 03 2022 at 2:00 pm EDT,1 to 10,0
+2022-10-03,Nebraska,29,Data as of October 03 2022 at 2:00 pm EDT,11 to 50,1
+2022-10-03,Nevada,267,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,0
+2022-10-03,New Hampshire,30,Data as of October 03 2022 at 2:00 pm EDT,11 to 50,0
+2022-10-03,New Jersey,720,Data as of October 03 2022 at 2:00 pm EDT,>500,7
+2022-10-03,New Mexico,42,Data as of October 03 2022 at 2:00 pm EDT,11 to 50,2
+2022-10-03,New York,3948,Data as of October 03 2022 at 2:00 pm EDT,>500,19
+2022-10-03,Non-US Resident,3,Data as of October 03 2022 at 2:00 pm EDT,1 to 10,0
+2022-10-03,North Carolina,566,Data as of October 03 2022 at 2:00 pm EDT,>500,0
+2022-10-03,North Dakota,6,Data as of October 03 2022 at 2:00 pm EDT,1 to 10,0
+2022-10-03,Ohio,281,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,2
+2022-10-03,Oklahoma,43,Data as of October 03 2022 at 2:00 pm EDT,11 to 50,3
+2022-10-03,Oregon,216,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,0
+2022-10-03,Pennsylvania,773,Data as of October 03 2022 at 2:00 pm EDT,>500,10
+2022-10-03,Puerto Rico,183,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,4
+2022-10-03,Rhode Island,74,Data as of October 03 2022 at 2:00 pm EDT,51 to 100,0
+2022-10-03,South Carolina,172,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,3
+2022-10-03,South Dakota,2,Data as of October 03 2022 at 2:00 pm EDT,1 to 10,0
+2022-10-03,Tennessee,309,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,17
+2022-10-03,Texas,2372,Data as of October 03 2022 at 2:00 pm EDT,>500,45
+2022-10-03,Total,26049,Data as of October 03 2022 at 2:00 pm EDT,"",198
+2022-10-03,Utah,161,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,1
+2022-10-03,Vermont,3,Data as of October 03 2022 at 2:00 pm EDT,1 to 10,0
+2022-10-03,Virginia,484,Data as of October 03 2022 at 2:00 pm EDT,101 to 500,0
+2022-10-03,Washington,600,Data as of October 03 2022 at 2:00 pm EDT,>500,1
+2022-10-03,West Virginia,12,Data as of October 03 2022 at 2:00 pm EDT,11 to 50,0
+2022-10-03,Wisconsin,76,Data as of October 03 2022 at 2:00 pm EDT,51 to 100,1
+2022-10-03,Wyoming,4,Data as of October 03 2022 at 2:00 pm EDT,1 to 10,0
