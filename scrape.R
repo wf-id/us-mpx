@@ -8,7 +8,8 @@ slugify_date <- function(x){
 ping_time <- slugify_date(Sys.time())
 
 download.file(
-  "https://www.cdc.gov/wcms/vizdata/poxvirus/monkeypox/data/USmap_counts.csv",
+  #"https://www.cdc.gov/wcms/vizdata/poxvirus/monkeypox/data/USmap_counts.csv",
+  "https://www.cdc.gov/wcms/vizdata/poxvirus/monkeypox/data/USmap_counts/exported_files/USmap_counts.csv",
 sprintf("data/%s.csv", ping_time),
 quiet = TRUE,
 cacheOK = FALSE
