@@ -5996,3 +5996,57 @@ DateDT,StateDSC,CasesCumulativeCNT,AsOf,Case_Range,CasesDailyNBR
 2022-11-15,West Virginia,12,Data as of November 15 2022 at 2:00 pm EDT,11 to 50,0
 2022-11-15,Wisconsin,87,Data as of November 15 2022 at 2:00 pm EDT,51 to 100,0
 2022-11-15,Wyoming,4,Data as of November 15 2022 at 2:00 pm EDT,1 to 10,0
+2022-11-16,Alabama,171,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,0
+2022-11-16,Alaska,5,Data as of November 16 2022 at 2:00 pm EDT,1 to 10,0
+2022-11-16,Arizona,538,Data as of November 16 2022 at 2:00 pm EDT,>500,0
+2022-11-16,Arkansas,70,Data as of November 16 2022 at 2:00 pm EDT,51 to 100,0
+2022-11-16,California,5547,Data as of November 16 2022 at 2:00 pm EDT,>500,0
+2022-11-16,Colorado,369,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,15
+2022-11-16,Connecticut,143,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,0
+2022-11-16,Delaware,41,Data as of November 16 2022 at 2:00 pm EDT,11 to 50,0
+2022-11-16,District of Columbia,522,Data as of November 16 2022 at 2:00 pm EDT,>500,0
+2022-11-16,Florida,2784,Data as of November 16 2022 at 2:00 pm EDT,>500,3
+2022-11-16,Georgia,1942,Data as of November 16 2022 at 2:00 pm EDT,>500,5
+2022-11-16,Hawaii,35,Data as of November 16 2022 at 2:00 pm EDT,11 to 50,0
+2022-11-16,Idaho,15,Data as of November 16 2022 at 2:00 pm EDT,11 to 50,0
+2022-11-16,Illinois,1404,Data as of November 16 2022 at 2:00 pm EDT,>500,3
+2022-11-16,Indiana,264,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,0
+2022-11-16,Iowa,27,Data as of November 16 2022 at 2:00 pm EDT,11 to 50,0
+2022-11-16,Kansas,36,Data as of November 16 2022 at 2:00 pm EDT,11 to 50,0
+2022-11-16,Kentucky,74,Data as of November 16 2022 at 2:00 pm EDT,51 to 100,0
+2022-11-16,Louisiana,290,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,0
+2022-11-16,Maine,12,Data as of November 16 2022 at 2:00 pm EDT,11 to 50,0
+2022-11-16,Maryland,726,Data as of November 16 2022 at 2:00 pm EDT,>500,1
+2022-11-16,Massachusetts,445,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,0
+2022-11-16,Michigan,372,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,1
+2022-11-16,Minnesota,233,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,0
+2022-11-16,Mississippi,106,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,0
+2022-11-16,Missouri,174,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,-2
+2022-11-16,Montana,7,Data as of November 16 2022 at 2:00 pm EDT,1 to 10,0
+2022-11-16,Nebraska,31,Data as of November 16 2022 at 2:00 pm EDT,11 to 50,0
+2022-11-16,Nevada,304,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,0
+2022-11-16,New Hampshire,33,Data as of November 16 2022 at 2:00 pm EDT,11 to 50,1
+2022-11-16,New Jersey,759,Data as of November 16 2022 at 2:00 pm EDT,>500,5
+2022-11-16,New Mexico,52,Data as of November 16 2022 at 2:00 pm EDT,51 to 100,0
+2022-11-16,New York,4144,Data as of November 16 2022 at 2:00 pm EDT,>500,0
+2022-11-16,Non-US Resident,3,Data as of November 16 2022 at 2:00 pm EDT,1 to 10,0
+2022-11-16,North Carolina,669,Data as of November 16 2022 at 2:00 pm EDT,>500,3
+2022-11-16,North Dakota,6,Data as of November 16 2022 at 2:00 pm EDT,1 to 10,0
+2022-11-16,Ohio,369,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,6
+2022-11-16,Oklahoma,65,Data as of November 16 2022 at 2:00 pm EDT,51 to 100,1
+2022-11-16,Oregon,253,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,1
+2022-11-16,Pennsylvania,854,Data as of November 16 2022 at 2:00 pm EDT,>500,1
+2022-11-16,Puerto Rico,198,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,0
+2022-11-16,Rhode Island,82,Data as of November 16 2022 at 2:00 pm EDT,51 to 100,0
+2022-11-16,South Carolina,215,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,0
+2022-11-16,South Dakota,3,Data as of November 16 2022 at 2:00 pm EDT,1 to 10,0
+2022-11-16,Tennessee,373,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,1
+2022-11-16,Texas,2794,Data as of November 16 2022 at 2:00 pm EDT,>500,4
+2022-11-16,Total,29055,Data as of November 16 2022 at 2:00 pm EDT,"",56
+2022-11-16,Utah,189,Data as of November 16 2022 at 2:00 pm EDT,101 to 500,3
+2022-11-16,Vermont,3,Data as of November 16 2022 at 2:00 pm EDT,1 to 10,0
+2022-11-16,Virginia,549,Data as of November 16 2022 at 2:00 pm EDT,>500,3
+2022-11-16,Washington,652,Data as of November 16 2022 at 2:00 pm EDT,>500,1
+2022-11-16,West Virginia,12,Data as of November 16 2022 at 2:00 pm EDT,11 to 50,0
+2022-11-16,Wisconsin,87,Data as of November 16 2022 at 2:00 pm EDT,51 to 100,0
+2022-11-16,Wyoming,4,Data as of November 16 2022 at 2:00 pm EDT,1 to 10,0
