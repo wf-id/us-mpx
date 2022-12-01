@@ -6806,3 +6806,57 @@ DateDT,StateDSC,CasesCumulativeCNT,AsOf,Case_Range,CasesDailyNBR
 2022-11-30,West Virginia,12,Data as of November 30 2022 at 2:00 pm EDT,11 to 50,0
 2022-11-30,Wisconsin,87,Data as of November 30 2022 at 2:00 pm EDT,51 to 100,0
 2022-11-30,Wyoming,4,Data as of November 30 2022 at 2:00 pm EDT,1 to 10,0
+2022-12-01,Alabama,179,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,2
+2022-12-01,Alaska,5,Data as of December 01 2022 at 2:00 pm EDT,1 to 10,0
+2022-12-01,Arizona,538,Data as of December 01 2022 at 2:00 pm EDT,>500,0
+2022-12-01,Arkansas,71,Data as of December 01 2022 at 2:00 pm EDT,51 to 100,0
+2022-12-01,California,5604,Data as of December 01 2022 at 2:00 pm EDT,>500,32
+2022-12-01,Colorado,388,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,0
+2022-12-01,Connecticut,143,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,0
+2022-12-01,Delaware,43,Data as of December 01 2022 at 2:00 pm EDT,11 to 50,0
+2022-12-01,District of Columbia,524,Data as of December 01 2022 at 2:00 pm EDT,>500,0
+2022-12-01,Florida,2817,Data as of December 01 2022 at 2:00 pm EDT,>500,5
+2022-12-01,Georgia,1957,Data as of December 01 2022 at 2:00 pm EDT,>500,0
+2022-12-01,Hawaii,35,Data as of December 01 2022 at 2:00 pm EDT,11 to 50,0
+2022-12-01,Idaho,15,Data as of December 01 2022 at 2:00 pm EDT,11 to 50,0
+2022-12-01,Illinois,1413,Data as of December 01 2022 at 2:00 pm EDT,>500,0
+2022-12-01,Indiana,272,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,0
+2022-12-01,Iowa,27,Data as of December 01 2022 at 2:00 pm EDT,11 to 50,0
+2022-12-01,Kansas,39,Data as of December 01 2022 at 2:00 pm EDT,11 to 50,1
+2022-12-01,Kentucky,89,Data as of December 01 2022 at 2:00 pm EDT,51 to 100,0
+2022-12-01,Louisiana,298,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,0
+2022-12-01,Maine,13,Data as of December 01 2022 at 2:00 pm EDT,11 to 50,0
+2022-12-01,Maryland,732,Data as of December 01 2022 at 2:00 pm EDT,>500,0
+2022-12-01,Massachusetts,454,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,1
+2022-12-01,Michigan,383,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,0
+2022-12-01,Minnesota,234,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,0
+2022-12-01,Mississippi,108,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,0
+2022-12-01,Missouri,189,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,4
+2022-12-01,Montana,7,Data as of December 01 2022 at 2:00 pm EDT,1 to 10,0
+2022-12-01,Nebraska,31,Data as of December 01 2022 at 2:00 pm EDT,11 to 50,0
+2022-12-01,Nevada,499,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,184
+2022-12-01,New Hampshire,33,Data as of December 01 2022 at 2:00 pm EDT,11 to 50,0
+2022-12-01,New Jersey,760,Data as of December 01 2022 at 2:00 pm EDT,>500,0
+2022-12-01,New Mexico,52,Data as of December 01 2022 at 2:00 pm EDT,51 to 100,0
+2022-12-01,New York,4168,Data as of December 01 2022 at 2:00 pm EDT,>500,1
+2022-12-01,Non-US Resident,3,Data as of December 01 2022 at 2:00 pm EDT,1 to 10,0
+2022-12-01,North Carolina,674,Data as of December 01 2022 at 2:00 pm EDT,>500,0
+2022-12-01,North Dakota,6,Data as of December 01 2022 at 2:00 pm EDT,1 to 10,0
+2022-12-01,Ohio,380,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,3
+2022-12-01,Oklahoma,68,Data as of December 01 2022 at 2:00 pm EDT,51 to 100,0
+2022-12-01,Oregon,265,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,0
+2022-12-01,Pennsylvania,857,Data as of December 01 2022 at 2:00 pm EDT,>500,0
+2022-12-01,Puerto Rico,198,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,0
+2022-12-01,Rhode Island,83,Data as of December 01 2022 at 2:00 pm EDT,51 to 100,0
+2022-12-01,South Carolina,221,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,0
+2022-12-01,South Dakota,3,Data as of December 01 2022 at 2:00 pm EDT,1 to 10,0
+2022-12-01,Tennessee,381,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,1
+2022-12-01,Texas,2826,Data as of December 01 2022 at 2:00 pm EDT,>500,0
+2022-12-01,Total,29603,Data as of December 01 2022 at 2:00 pm EDT,"",236
+2022-12-01,Utah,194,Data as of December 01 2022 at 2:00 pm EDT,101 to 500,0
+2022-12-01,Vermont,3,Data as of December 01 2022 at 2:00 pm EDT,1 to 10,0
+2022-12-01,Virginia,558,Data as of December 01 2022 at 2:00 pm EDT,>500,0
+2022-12-01,Washington,660,Data as of December 01 2022 at 2:00 pm EDT,>500,2
+2022-12-01,West Virginia,12,Data as of December 01 2022 at 2:00 pm EDT,11 to 50,0
+2022-12-01,Wisconsin,87,Data as of December 01 2022 at 2:00 pm EDT,51 to 100,0
+2022-12-01,Wyoming,4,Data as of December 01 2022 at 2:00 pm EDT,1 to 10,0
