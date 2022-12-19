@@ -98,7 +98,7 @@ jynneous_data[,value := gsub(pattern = "-", replacement = "0", value)]
 jynneous_data[ ,value := as.numeric(gsub(pattern = ",", replacement = "", value))]
 
 jyn_out <- jynneous_data[grepl("(T|t)otal",variable)][,Description := fcase(
-  stringr::str_detect(string = variable, "Allocation"), "AllocatedCNT",
+  stringr::str_detect(string = variable, "Allocat"), "AllocatedCNT",
   stringr::str_detect(string = variable, "Shipped"), "ShippedCNT",
   stringr::str_detect(string = variable, "Requested"), "RequestedCNT"
 )][]
@@ -110,7 +110,7 @@ jyn_out$DateDT <- pull_date
 jyn_out
 })
 
-jynneous_data <- rbindlist(jynneous_data)
+jynneous_data <- rbindlist(jynneous_data, fill = TRUE)
 
 jynneous_data <- jynneous_data[,tail(.SD, 1), by = c("Jurisdiction","DateDT")]
 
