@@ -83,35 +83,35 @@ data.table::fwrite(dat_dat, h("output", "mpx.csv"))
 
 # pull jynneos --------------------------------------------------------------------------------
 
-jynneous_data <- lapply(list.files(h("data", "jynneos"), full.names = TRUE), function(x) {
-  pull_date <- lubridate::as_datetime(str_remove(basename(x), "\\.csv"))
-  pull_date <- lubridate::date(pull_date)
-
-jynneous_data <- data.table::fread(x)
-
-names(jynneous_data)[1] <- "Jurisdiction"
-
-jynneous_data <- data.table::melt(jynneous_data, id.vars = "Jurisdiction")
-
-jynneous_data[,value := gsub(pattern = "-", replacement = "0", value)]
-
-jynneous_data[ ,value := as.numeric(gsub(pattern = ",", replacement = "", value))]
-
-jyn_out <- jynneous_data[grepl("(T|t)otal",variable)][,Description := fcase(
-  stringr::str_detect(string = variable, "Allocat"), "AllocatedCNT",
-  stringr::str_detect(string = variable, "Shipped"), "ShippedCNT",
-  stringr::str_detect(string = variable, "Requested"), "RequestedCNT"
-)][]
-
-jyn_out <- data.table::dcast(jyn_out, Jurisdiction ~ Description, value.var = "value")
-
-jyn_out <- jyn_out[,FilledPCT := ShippedCNT/RequestedCNT]
-jyn_out$DateDT <- pull_date
-jyn_out
-})
-
-jynneous_data <- rbindlist(jynneous_data, fill = TRUE)
-
-jynneous_data <- jynneous_data[,tail(.SD, 1), by = c("Jurisdiction","DateDT")]
-
-data.table::fwrite(jynneous_data, here::here("output", "jynneos.csv"))
+# jynneous_data <- lapply(list.files(h("data", "jynneos"), full.names = TRUE), function(x) {
+#   pull_date <- lubridate::as_datetime(str_remove(basename(x), "\\.csv"))
+#   pull_date <- lubridate::date(pull_date)
+# 
+# jynneous_data <- data.table::fread(x)
+# 
+# names(jynneous_data)[1] <- "Jurisdiction"
+# 
+# jynneous_data <- data.table::melt(jynneous_data, id.vars = "Jurisdiction")
+# 
+# jynneous_data[,value := gsub(pattern = "-", replacement = "0", value)]
+# 
+# jynneous_data[ ,value := as.numeric(gsub(pattern = ",", replacement = "", value))]
+# 
+# jyn_out <- jynneous_data[grepl("(T|t)otal",variable)][,Description := fcase(
+#   stringr::str_detect(string = variable, "Allocat"), "AllocatedCNT",
+#   stringr::str_detect(string = variable, "Shipped"), "ShippedCNT",
+#   stringr::str_detect(string = variable, "Requested"), "RequestedCNT"
+# )][]
+# 
+# jyn_out <- data.table::dcast(jyn_out, Jurisdiction ~ Description, value.var = "value")
+# 
+# jyn_out <- jyn_out[,FilledPCT := ShippedCNT/RequestedCNT]
+# jyn_out$DateDT <- pull_date
+# jyn_out
+# })
+# 
+# jynneous_data <- rbindlist(jynneous_data, fill = TRUE)
+# 
+# jynneous_data <- jynneous_data[,tail(.SD, 1), by = c("Jurisdiction","DateDT")]
+# 
+# data.table::fwrite(jynneous_data, here::here("output", "jynneos.csv"))
