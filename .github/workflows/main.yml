@@ -80,7 +80,7 @@ jobs:
           patch_version=${{ github.event.inputs.patch_version }}
           [ ! -z $patch_version ] && patch_version="."$patch_version
           # if so, append to usual montly number
-          current_tag="$(date '+%Y.%m')${patch_version}"
+          current_tag="$(date '+%Y.%m%b')${patch_version}"
           daily_release="v${current_tag}"
           
           git tag -f $daily_release
