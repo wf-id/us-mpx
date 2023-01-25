@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Michael E"
+  given-names: "DeWitt"
+  orcid: "https://orcid.org/0000-0001-8940-1967"
+title: "Monkeypox Cases in the United States"
+version: v2023.01
+doi: 10.5281/zenodo.7568637
+date-released: 2023-01-25
+url: "https://github.com/wf-id/us-mpx"
