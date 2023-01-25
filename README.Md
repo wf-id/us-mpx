@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/515973085.svg)](https://zenodo.org/badge/latestdoi/515973085)
+
 # Monkeypox Cases in the United States
 
 This repository saves a copy of the posted reported monkeypox (MPX) cases for each state as recorded by the CDC on [their website](https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html).
