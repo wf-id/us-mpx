@@ -9722,3 +9722,57 @@ DateDT,StateDSC,CasesCumulativeCNT,AsOf,Case_Range,CasesDailyNBR
 2023-01-30,West Virginia,12,Data as of January 25 2023 at 2:00 pm EDT,11 to 50,0
 2023-01-30,Wisconsin,87,Data as of January 25 2023 at 2:00 pm EDT,51 to 100,0
 2023-01-30,Wyoming,4,Data as of January 25 2023 at 2:00 pm EDT,1 to 10,0
+2023-01-31,Alabama,186,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Alaska,5,Data as of January 25 2023 at 2:00 pm EDT,1 to 10,0
+2023-01-31,Arizona,584,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,Arkansas,72,Data as of January 25 2023 at 2:00 pm EDT,51 to 100,0
+2023-01-31,California,5719,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,Colorado,405,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Connecticut,145,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Delaware,43,Data as of January 25 2023 at 2:00 pm EDT,11 to 50,0
+2023-01-31,District of Columbia,525,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,Florida,2864,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,Georgia,1987,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,Hawaii,35,Data as of January 25 2023 at 2:00 pm EDT,11 to 50,0
+2023-01-31,Idaho,16,Data as of January 25 2023 at 2:00 pm EDT,11 to 50,0
+2023-01-31,Illinois,1430,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,Indiana,286,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Iowa,30,Data as of January 25 2023 at 2:00 pm EDT,11 to 50,0
+2023-01-31,Kansas,50,Data as of January 25 2023 at 2:00 pm EDT,11 to 50,0
+2023-01-31,Kentucky,100,Data as of January 25 2023 at 2:00 pm EDT,51 to 100,0
+2023-01-31,Louisiana,308,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Maine,13,Data as of January 25 2023 at 2:00 pm EDT,11 to 50,0
+2023-01-31,Maryland,740,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,Massachusetts,456,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Michigan,398,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Minnesota,234,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Mississippi,108,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Missouri,217,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Montana,7,Data as of January 25 2023 at 2:00 pm EDT,1 to 10,0
+2023-01-31,Nebraska,32,Data as of January 25 2023 at 2:00 pm EDT,11 to 50,0
+2023-01-31,Nevada,321,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,New Hampshire,33,Data as of January 25 2023 at 2:00 pm EDT,11 to 50,0
+2023-01-31,New Jersey,764,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,New Mexico,57,Data as of January 25 2023 at 2:00 pm EDT,51 to 100,0
+2023-01-31,New York,4221,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,Non-US Resident,3,Data as of January 25 2023 at 2:00 pm EDT,1 to 10,0
+2023-01-31,North Carolina,735,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,North Dakota,6,Data as of January 25 2023 at 2:00 pm EDT,1 to 10,0
+2023-01-31,Ohio,392,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Oklahoma,69,Data as of January 25 2023 at 2:00 pm EDT,51 to 100,0
+2023-01-31,Oregon,275,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Pennsylvania,865,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,Puerto Rico,206,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Rhode Island,84,Data as of January 25 2023 at 2:00 pm EDT,51 to 100,0
+2023-01-31,South Carolina,234,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,South Dakota,3,Data as of January 25 2023 at 2:00 pm EDT,1 to 10,0
+2023-01-31,Tennessee,394,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Texas,2901,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,Total,30093,Data as of January 25 2023 at 2:00 pm EDT,"",0
+2023-01-31,Utah,196,Data as of January 25 2023 at 2:00 pm EDT,101 to 500,0
+2023-01-31,Vermont,3,Data as of January 25 2023 at 2:00 pm EDT,1 to 10,0
+2023-01-31,Virginia,569,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,Washington,664,Data as of January 25 2023 at 2:00 pm EDT,>500,0
+2023-01-31,West Virginia,12,Data as of January 25 2023 at 2:00 pm EDT,11 to 50,0
+2023-01-31,Wisconsin,87,Data as of January 25 2023 at 2:00 pm EDT,51 to 100,0
+2023-01-31,Wyoming,4,Data as of January 25 2023 at 2:00 pm EDT,1 to 10,0
